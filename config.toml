@@ -5,6 +5,7 @@ title = "EESTEC Antwerpen"
 [params]
     ProfilePicture = "/img/logo.png"
     Description    = "Beschrijving hier"
+    github         = "https://github.com/eestec-antwerp"
     twitter        = "https://twitter.com/eestecantwerp"
     twittername    = "@eestecantwerp"
     facebook       = "https://www.facebook.com/pages/EESTEC-LC-Antwerp/267354436716943"
