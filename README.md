@@ -15,4 +15,5 @@ updaten, zodat ook github pages de verandering ziet.
 # Testen
 
 Om een verandering te testen:
+    
     hugo server --theme=herring-cove --buildDrafts --watch
