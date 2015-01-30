@@ -1,0 +1,12 @@
+baseurl = "http://eestec.be"
+languageCode = "en-us"
+title = "EESTEC Antwerpen"
+
+[params]
+    ProfilePicture = "/img/logo.png"
+    Description    = "Beschrijving hier"
+    twitter        = "https://twitter.com/eestecantwerp"
+    twittername    = "@eestecantwerp"
+    facebook       = "https://www.facebook.com/pages/EESTEC-LC-Antwerp/267354436716943"
+    email          = "board[at]eestec[dot]be"
+    showcase       = "Hello"
