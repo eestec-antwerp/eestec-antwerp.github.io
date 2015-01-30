@@ -1,5 +1,11 @@
-# website
+# Artikels maken/bewerken
 
-zet public directory in branch master als volgt (huidige branch==hugo):
+Een nieuw artikel maken/bewerken gaat als volgt:
 
-    git subtree push --prefix public origin master
+    git checkout hugo
+    hugo new naam.md # enkel voor nieuwe artikels, obviously
+    edit ./content/naam.md
+    ./update.sh
+
+**update.sh** zal het artikel in git zetten, de website bouwen, en de master branch
+updaten, zodat ook github pages de verandering ziet.
