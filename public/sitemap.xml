@@ -2,34 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:52764/</loc>
-    <lastmod>2015-01-29T13:33:01+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:52764/vakantiewerk2015</loc>
-    <lastmod>2015-01-29T13:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:52764/board</loc>
-    <lastmod>2015-01-29T13:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:52764/index.html</loc>
-    <lastmod>2015-01-29T13:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:52764/quote/something/</loc>
-    <lastmod>2015-01-29T12:08:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:52764/post/first/</loc>
-    <lastmod>2015-01-29T12:03:10+01:00</lastmod>
   </url>
   
 </urlset>

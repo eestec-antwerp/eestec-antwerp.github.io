@@ -3,7 +3,7 @@
   <channel>
       <title>Quotes on EESTEC Antwerpen </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:52764/quote/index.xml/</link>
+    <link>http://eestec.be/quote/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>something</title>
-      <link>http://localhost:52764/quote/something/</link>
+      <link>http://eestec.be/quote/something/</link>
       <pubDate>Thu, 29 Jan 2015 12:08:31 CET</pubDate>
       
-      <guid>http://localhost:52764/quote/something/</guid>
+      <guid>http://eestec.be/quote/something/</guid>
       <description>&lt;p&gt;uhu&lt;/p&gt;
 </description>
     </item>

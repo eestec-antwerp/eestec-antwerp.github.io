@@ -3,70 +3,11 @@
   <channel>
       <title>Recent Content on EESTEC Antwerpen </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:52764/index.xml/</link>
+    <link>/index.xml/</link>
     <language>en-us</language>
     
     
-    <updated>Thu, 29 Jan 2015 13:33:01 CET</updated>
-    
-    <item>
-      <title>Vakantiewerk 2015</title>
-      <link>http://localhost:52764/vakantiewerk2015</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>http://localhost:52764/vakantiewerk2015</guid>
-      <description>&lt;p&gt;VAKANTIEEEE&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Board</title>
-      <link>http://localhost:52764/board</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>http://localhost:52764/board</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Huidig bestuur:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Voorzitter: Olivier&lt;/li&gt;
-&lt;li&gt;Treasurer: Thomas&lt;/li&gt;
-&lt;li&gt;PR: Simon&lt;/li&gt;
-&lt;li&gt;CP: Evert&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>http://localhost:52764/index.html</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>http://localhost:52764/index.html</guid>
-      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>something</title>
-      <link>http://localhost:52764/quote/something/</link>
-      <pubDate>Thu, 29 Jan 2015 12:08:31 CET</pubDate>
-      
-      <guid>http://localhost:52764/quote/something/</guid>
-      <description>&lt;p&gt;uhu&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>http://localhost:52764/post/first/</link>
-      <pubDate>Thu, 29 Jan 2015 12:03:10 CET</pubDate>
-      
-      <guid>http://localhost:52764/post/first/</guid>
-      <description>&lt;p&gt;Haha first.&lt;/p&gt;
-</description>
-    </item>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
   </channel>
 </rss>
