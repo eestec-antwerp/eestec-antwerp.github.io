@@ -41,18 +41,6 @@ voor de gemakkelijkheid is hier ook een url. Het form staat ook in de google dri
     </item>
     
     <item>
-      <title>index</title>
-      <link>/index.html</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>/index.html</guid>
-      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
-
-&lt;p&gt;update&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Current Board</title>
       <link>/board</link>
       <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
@@ -68,6 +56,18 @@ voor de gemakkelijkheid is hier ook een url. Het form staat ook in de google dri
 &lt;li&gt;PR: Simon&lt;/li&gt;
 &lt;li&gt;CP: Evert&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>/index.html</link>
+      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
+      
+      <guid>/index.html</guid>
+      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
+
+&lt;p&gt;update&lt;/p&gt;
 </description>
     </item>
     
