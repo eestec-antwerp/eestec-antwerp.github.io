@@ -59,6 +59,7 @@ p
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
+  word-wrap: break-word;
 }
 
 .posts
