@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on EESTEC Antwerpen </title>
+      <title>Forms on EESTEC Antwerpen </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml/</link>
+    <link>/form/index.xml/</link>
     <language>en-us</language>
     
     
@@ -37,57 +37,6 @@ form_height = &amp;quot;620em&amp;quot;
 voor de gemakkelijkheid is hier ook een url. Het form staat ook in de google drive van Eestec.be.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform&#34;&gt;https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Board</title>
-      <link>/board</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>/board</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Huidig bestuur:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Voorzitter: Olivier&lt;/li&gt;
-&lt;li&gt;Treasurer: Thomas&lt;/li&gt;
-&lt;li&gt;PR: Simon&lt;/li&gt;
-&lt;li&gt;CP: Evert&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>/index.html</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>/index.html</guid>
-      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
-
-&lt;p&gt;update&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>something</title>
-      <link>/quote/something/</link>
-      <pubDate>Thu, 29 Jan 2015 12:08:31 CET</pubDate>
-      
-      <guid>/quote/something/</guid>
-      <description>&lt;p&gt;uhu&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>/post/first/</link>
-      <pubDate>Thu, 29 Jan 2015 12:03:10 CET</pubDate>
-      
-      <guid>/post/first/</guid>
-      <description>&lt;p&gt;Haha first.&lt;/p&gt;
 </description>
     </item>
     

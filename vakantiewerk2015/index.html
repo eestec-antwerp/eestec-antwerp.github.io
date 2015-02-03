@@ -33,6 +33,7 @@
             <li><a href="/">About</a></li>
 <li><a href="/board/">Board</a></li>
 <li><a href="/vakantiewerk2015/">Vakantiewerk 2015</a></li>
+<li><a href="/form/">Forms</a></li>
 <li><a href="/post/">Posts</a></li>
           </ul>
           <hr/>
@@ -56,6 +57,7 @@
             <li><a href="/">About</a></li>
 <li><a href="/board/">Board</a></li>
 <li><a href="/vakantiewerk2015/">Vakantiewerk 2015</a></li>
+<li><a href="/form/">Forms</a></li>
 <li><a href="/post/">Posts</a></li>
           <hr />
           <div id="social-wrapper">
@@ -74,10 +76,34 @@
 
   <div id="article">
    <div class="article-title">Vakantiewerk 2015</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2015-01-29</small></p> <hr/>
+   
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2015-02-03</small></p> <hr/>
    <div class="post">
-     <p>VAKANTIEEEE</p>
+     <p>Je kan twee extra attributen instellen bij een form. Deze twee attributen zijn <code>form_url</code> en <code>form_height</code>.</p>
 
+<p><code>form_height</code> is niet per se nodig, als je hem niet instelt zal deze defaulten op 700em.</p>
+
+<p><code>form_url</code> is wel nodig.</p>
+
+<p>De front matter van dit form ziet er bijvoorbeeld als volgt uit:</p>
+
+<pre><code>+++
+date = &quot;2015-02-03T11:38:02+01:00&quot;
+draft = false
+url = &quot;/vakantiewerk2015&quot;
+title = &quot;Vakantiewerk 2015&quot;
+form_url = &quot;https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform&quot;
+form_height = &quot;620em&quot;
++++
+</code></pre>
+
+<p>Ik heb een testform gemaakt, met een stijl die past bij deze website. Je kan het hieronder vinden, maar
+voor de gemakkelijkheid is hier ook een url. Het form staat ook in de google drive van Eestec.be.</p>
+
+<p><a href="https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform">https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform</a></p>
+
+     <hr/>
+     <iframe src="https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform" class="form" height="620em"></iframe>
    </div>
  </div>
 
@@ -86,7 +112,7 @@
  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
  <ul class="pager">
-      &nbsp;<li class="previous"><a href="/index.html"> index</a></li>
+     
       &nbsp;<li class="next"><a href="/board"> Current Board</a></li>
 </ul>
 
