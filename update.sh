@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hugo -b "/" --buildDrafts --theme=herring-cove
+hugo -b "/" --theme=herring-cove
 
 git add --all
 git commit -m "hugo $(date +%Y.%m.%d) $1"
