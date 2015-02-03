@@ -13,10 +13,6 @@
   border: 0;
 }
 
-.navbar-collapse {
-  max-height: 9999999px !important;
-}
-
 /* end */
 
 body
@@ -300,6 +296,7 @@ pre
   background-size: cover;
   z-index:-4;
   background-image: url("/images/showcase.jpg");
+  background-position: center;
 }
 
 .showcase-text
