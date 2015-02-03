@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Current Board</title>
+  <title>Vakantiewerk 2015</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <link href="" rel="alternate" type="application/rss+xml" title="EESTEC Antwerpen" />
-  <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/hc.css" rel="stylesheet">
+  <link href="http://localhost:1313/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://localhost:1313/css/hc.css" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   
     
@@ -26,7 +26,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <p class="navbar-brand"><a href="/">EESTEC Antwerpen</a></p>
+          <p class="navbar-brand"><a href="http://localhost:1313/">EESTEC Antwerpen</a></p>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -52,7 +52,7 @@
        
        <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
-          <li class="sidebar-brand"><a href="/"><h1 class="brand">EESTEC Antwerpen</h1></a><h3>Beschrijving hier</h3></li>
+          <li class="sidebar-brand"><a href="http://localhost:1313/"><h1 class="brand">EESTEC Antwerpen</h1></a><h3>Beschrijving hier</h3></li>
           <hr />
             <li><a href="/">About</a></li>
 <li><a href="/board/">Board</a></li>
@@ -75,20 +75,18 @@
 
 
   <div id="article">
-   <div class="article-title">Current Board</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2015-01-29</small></p> <hr/>
+   <div class="article-title">Vakantiewerk 2015</div>
+   
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2015-02-03</small></p> <hr/>
    <div class="post">
-     
+     <p>Je kan twee extra attributen instellen bij een form. Deze twee attributen zijn <code>form_url</code> en <code>form_height</code>.</p>
 
-<h2 id="toc_0">Huidig bestuur:</h2>
+<p><code>form_height</code> is niet per se nodig, als je hem niet instelt zal deze defaulten op 700em.</p>
 
-<ul>
-<li>Voorzitter: Olivier</li>
-<li>Treasurer: Thomas</li>
-<li>PR: Simon</li>
-<li>CP: Evert</li>
-</ul>
+<p><code>form_url</code> is wel nodig.</p>
 
+     <hr/>
+     <iframe src="https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform" class="form" height="620em"></iframe>
    </div>
  </div>
 
@@ -97,8 +95,8 @@
  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
  <ul class="pager">
-      &nbsp;<li class="previous"><a href="/vakantiewerk2015"> Vakantiewerk 2015</a></li>
-      &nbsp;<li class="next"><a href="/index.html"> index</a></li>
+     
+      &nbsp;<li class="next"><a href="http://localhost:1313/index.html"> index</a></li>
 </ul>
 
 
@@ -114,7 +112,10 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/bootstrap.js"></script>
     <script type="text/javascript" src="/js/hc.js"></script>
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 
 </html>
 
