@@ -428,6 +428,21 @@ img
   padding:10px 40px 0
 }
 
+.article-summary
+{
+  margin-bottom: 10px;
+  background-color:#f9f9f9;
+  box-shadow:1px 1px 0 1px #e8e8e8;
+  padding:10px 40px 10px;
+}
+
+.article-summary-title
+{
+  font-size:20px;
+  font-weight:700;
+  color:#d90006;
+}
+
 .post
 {
   padding-bottom:30px

@@ -36,10 +36,11 @@
           </ul>
           <hr/>
           <ul class="nav navbar-nav">
-            {{ with .Site.Params.twitter }}<li> <a href="{{ . }}"><i class="fa fa-twitter-square"></i> {{with $.Site.Params.twittername }}{{.}}{{else}}@twitter{{end}}</a></li>{{end}}
+            {{ with .Site.Params.twitter }}<li> <a href="{{ . }}"><i class="fa fa-twitter-square"></i> {{with $.Site.Params.twittername }}{{.}}{{else}}twitter{{end}}</a></li>{{end}}
             {{ with .Site.Params.linkedin }}<li> <a href="{{ . }}"><i class="fa fa-linkedin-square"></i> linkedin</a> </li>{{end}}
             {{ with .Site.Params.facebook }}<li> <a href="{{ . }}"><i class="fa fa-facebook-square"></i> facebook</a></li>{{end}}
             {{ with .Site.Params.github }}<li> <a href="{{ . }}"><i class="fa fa-github-square"></i> github</a> </li>{{end}}
+            {{ with .Site.Params.rss }}<li> <a href="{{ . }}"><i class="fa fa-rss-square"></i> RSS</a> </li>{{end}}
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -59,6 +60,7 @@
            {{ with .Site.Params.linkedin }}<li> <a href="{{ . }}"><i class="fa fa-linkedin-square"></i> linkedin</a> </li>{{end}}
            {{ with .Site.Params.facebook }}<li> <a href="{{ . }}"><i class="fa fa-facebook-square"></i> facebook</a></li>{{end}}
            {{ with .Site.Params.github }}<li> <a href="{{ . }}"><i class="fa fa-github-square"></i> github</a> </li>{{end}}
+           {{ with .Site.Params.rss }}<li> <a href="{{ . }}"><i class="fa fa-rss-square"></i> RSS</a> </li>{{end}}
          </div>
        </ul>
      </div>
