@@ -1,4 +1,10 @@
-# Artikels maken/bewerken
+# Website voor EESTEC LC Antwerpen
+
+This is the source code for the website of EESTEC Local Chapter in Antwerpen.
+Built with the wonderful [Hugo](http://gohugo.io/).
+
+
+## Artikels maken/bewerken
 
 Een nieuw artikel maken/bewerken gaat als volgt:
 
@@ -12,8 +18,8 @@ Een nieuw artikel maken/bewerken gaat als volgt:
 updaten, zodat ook github pages de verandering ziet.
 
 
-# Testen
+## Testen
 
 Om een verandering te testen:
-    
+
     hugo server --theme=herring-cove --buildDrafts --watch
