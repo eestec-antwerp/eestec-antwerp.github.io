@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Board</title>
+  <title>Startup talk</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <link href="" rel="alternate" type="application/rss+xml" title="EESTEC Antwerpen" />
-  <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/hc.css" rel="stylesheet">
+  <link href="http://localhost:1313/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://localhost:1313/css/hc.css" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   
     
@@ -26,7 +26,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <p class="navbar-brand"><a href="/">EESTEC Antwerpen</a></p>
+          <p class="navbar-brand"><a href="http://localhost:1313/">EESTEC Antwerpen</a></p>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -52,7 +52,7 @@
        
        <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
-          <li class="sidebar-brand"><a href="/"><h1 class="brand">EESTEC Antwerpen</h1></a><h3>Welcome to EESTEC&#39;s only LC in Belgium, proudly located in Antwerp!</h3></li>
+          <li class="sidebar-brand"><a href="http://localhost:1313/"><h1 class="brand">EESTEC Antwerpen</h1></a><h3>Welcome to EESTEC&#39;s only LC in Belgium, proudly located in Antwerp!</h3></li>
           <hr />
             <li><a href="/">Home</a></li>
 <li><a href="/about/">About</a></li>
@@ -75,38 +75,20 @@
 
 
   <div id="article">
-   <div class="article-title">Board</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2015-01-29</small></p> <hr/>
+   <div class="article-title">Startup talk</div>
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2015-02-09</small></p> <hr/>
    <div class="post">
-     
+     <p>Verschillende ondernemers vanuit verschillende fasen uit het startup gebeuren
+komen praten over hun ervaringen. We hebben een net afgestudeerde student maar
+ook een executive van een gevestigd bedrijf.</p>
 
-<h2 id="toc_0">Chairman</h2>
+<p>Altijd al getwijfeld om voor jezelf aan de slag te gaan in plaats van bij die multinational? Of wil je gewoon wat meer weten of een paar interessante vlaamse startups?
+Kom dan zeker af! Wij zorgen voor eten.</p>
 
-<p><img src="/img/olivier profile.jpg" alt="chairman profile" title="chairman[at]eestec[dot]be" />
-</p>
+<p>WHEN: 26 februari, 18u15
+WHERE: Campus Middelheim UA, Lokaal MG010</p>
 
-<p>Olivier Brewaeys</p>
-
-<h2 id="toc_1">Treasurer</h2>
-
-<p><img src="/img/thomas profile.jpg" alt="treasurer profile" title="treasurer[at]eestec[dot]be" />
-</p>
-
-<p>Thomas Pinna</p>
-
-<h2 id="toc_2">Contact Person</h2>
-
-<p><img src="/img/evert profile.png" alt="cp profile" title="cp@eestec.be" />
-</p>
-
-<p>Evert Heylen</p>
-
-<h2 id="toc_3">Public Relations</h2>
-
-<p><img src="/img/simon profile.jpg" alt="pr profile" title="pr[at]eestec[dot]be" />
-</p>
-
-<p>Simon Van Mierlo</p>
+<p>Schrijf je hier in of zet je aanwezig op Facebook. (COMING)</p>
 
    </div>
  </div>
@@ -116,8 +98,8 @@
  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
  <ul class="pager">
-      &nbsp;<li class="previous"><a href="/about"> About</a></li>
-     
+      &nbsp;<li class="previous"><a href="http://localhost:1313/welcomeagain"> Welcome (again)!</a></li>
+      &nbsp;<li class="next"><a href="http://localhost:1313/vakantiewerk2015"> Vakantiewerk 2015</a></li>
 </ul>
 
 
@@ -133,7 +115,10 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/bootstrap.js"></script>
     <script type="text/javascript" src="/js/hc.js"></script>
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 
 </html>
 
