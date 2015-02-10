@@ -15,28 +15,7 @@
       <pubDate>Tue, 03 Feb 2015 11:38:02 CET</pubDate>
       
       <guid>/vakantiewerk2015</guid>
-      <description>&lt;p&gt;Je kan twee extra attributen instellen bij een form. Deze twee attributen zijn &lt;code&gt;form_url&lt;/code&gt; en &lt;code&gt;form_height&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;form_height&lt;/code&gt; is niet per se nodig, als je hem niet instelt zal deze defaulten op 700em.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;form_url&lt;/code&gt; is wel nodig.&lt;/p&gt;
-
-&lt;p&gt;De front matter van dit form ziet er bijvoorbeeld als volgt uit:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;+++
-date = &amp;quot;2015-02-03T11:38:02+01:00&amp;quot;
-draft = false
-url = &amp;quot;/vakantiewerk2015&amp;quot;
-title = &amp;quot;Vakantiewerk 2015&amp;quot;
-form_url = &amp;quot;https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform&amp;quot;
-form_height = &amp;quot;620em&amp;quot;
-+++
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Ik heb een testform gemaakt, met een stijl die past bij deze website. Je kan het hieronder vinden, maar
-voor de gemakkelijkheid is hier ook een url. Het form staat ook in de google drive van Eestec.be.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform&#34;&gt;https://docs.google.com/a/eestec.be/forms/d/1wM49GIFHhPnOR4DY7LB6HV0kq85O4G8q00I4rjJ5cx0/viewform&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Hieronder vind je het formulier. Als niet goed zichtbaar is, kan je het ook &lt;a href=&#34;https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform&#34;&gt;hier&lt;/a&gt; invullen.&lt;/p&gt;
 </description>
     </item>
     
