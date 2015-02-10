@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on EESTEC Antwerpen </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml/</link>
-    <language>en-us</language>
+    <title>EESTEC Antwerpen</title>
+    <link>/</link>
+    <description>Recent content on EESTEC Antwerpen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be-nl</language>
     
     
-    <updated>Tue, 03 Feb 2015 11:38:02 CET</updated>
+    
+    <lastBuildDate>Tue, 10 Feb 2015 23:27:07 CET</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome (again)!</title>
+      <link>welcomeagain</link>
+      <pubDate>Tue, 10 Feb 2015 23:27:07 CET</pubDate>
+      
+      <guid>welcomeagain</guid>
+      <description>&lt;p&gt;Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig
+board. Wij zijn druk in de weer om een fantastisch semester voor jullie voor te
+bereiden.
+Houdt de website in de gaten, subscribe op de
+&lt;a href=&#34;eestec.be/rss&#34;&gt;rss-feed&lt;/a&gt;, like ons op &lt;a href=&#34;facebook.com/eestecantwerp&#34;&gt;Facebook&lt;/a&gt; en
+volg ons op &lt;a href=&#34;twitter.com/eestecantwerp&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Vakantiewerk 2015</title>
@@ -32,37 +50,37 @@
     </item>
     
     <item>
-      <title>Current Board</title>
+      <title>Board</title>
       <link>/board</link>
       <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
       
       <guid>/board</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Chairman&lt;/h2&gt;
+&lt;h2 id=&#34;chairman:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Chairman&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/olivier profile.jpg&#34; alt=&#34;chairman profile&#34; title=&#34;chairman@eestec.be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/olivier profile.jpg&#34; alt=&#34;chairman profile&#34; title=&#34;chairman[at]eestec[dot]be&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Olivier Brewaeys&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Treasurer&lt;/h2&gt;
+&lt;h2 id=&#34;treasurer:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Treasurer&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/thomas profile.jpg&#34; alt=&#34;treasurer profile&#34; title=&#34;treasurer@eestec.be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/thomas profile.jpg&#34; alt=&#34;treasurer profile&#34; title=&#34;treasurer[at]eestec[dot]be&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Thomas Pinna&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Contact Person&lt;/h2&gt;
+&lt;h2 id=&#34;contact-person:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Contact Person&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/evert profile.png&#34; alt=&#34;cp profile&#34; title=&#34;cp@eestec.be&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Evert Heylen&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;Public Relations&lt;/h2&gt;
+&lt;h2 id=&#34;public-relations:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Public Relations&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/simon profile.jpg&#34; alt=&#34;pr profile&#34; title=&#34;pr@eestec.be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/simon profile.jpg&#34; alt=&#34;pr profile&#34; title=&#34;pr[at]eestec[dot]be&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Simon Van Mierlo&lt;/p&gt;
