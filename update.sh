@@ -10,6 +10,7 @@ rm -rf *
 git checkout hugo -- public
 cp -R ./public/* .
 rm -rf ./public
+cp index.xml rss
 git add --all
 git commit -m "master $(date +%Y.%m.%d) $1"
 git push

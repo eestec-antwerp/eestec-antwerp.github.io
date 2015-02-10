@@ -56,7 +56,7 @@
             {{ template "theme/partials/menu.html" }}
           <hr />
           <div id="social-wrapper">
-           {{ with .Site.Params.twitter }}<li> <a href="{{ . }}"><i class="fa fa-twitter-square"></i> {{with $.Site.Params.twittername }}{{.}}{{else}}@twitter{{end}}</a></li>{{end}}
+           {{ with .Site.Params.twitter }}<li> <a href="{{ . }}"><i class="fa fa-twitter-square"></i> {{with $.Site.Params.twittername }}{{.}}{{else}}twitter{{end}}</a></li>{{end}}
            {{ with .Site.Params.linkedin }}<li> <a href="{{ . }}"><i class="fa fa-linkedin-square"></i> linkedin</a> </li>{{end}}
            {{ with .Site.Params.facebook }}<li> <a href="{{ . }}"><i class="fa fa-facebook-square"></i> facebook</a></li>{{end}}
            {{ with .Site.Params.github }}<li> <a href="{{ . }}"><i class="fa fa-github-square"></i> github</a> </li>{{end}}
@@ -66,12 +66,12 @@
      </div>
 
 {{ if eq .Url "/" }}
-{{ with .Site.Params.showcase }}
 	<!-- Big fancy image -->
 	<div class="showcase-wrapper sticky" style="display: block;">
+{{ with .Site.Params.showcase }}
       <div class="showcase-text">{{.}}</div>
-    </div>
 {{ end }}
+    </div>
 {{ end }}
      
      <div class="container">
