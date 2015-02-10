@@ -6,7 +6,8 @@ url = "/board"
 +++
 Chairman
 --------
-![chairman@eestec.be](/img/olivier\ profile.png)
+![Olivier Profile](/img/olivier\ profile.jgp "chairman@eestec.be")
+
 Olivier Brewaeys
 
 Treasurer
