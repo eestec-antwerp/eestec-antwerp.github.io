@@ -23,18 +23,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>/about</guid>
-      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
-
-&lt;p&gt;update&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Current Board</title>
       <link>/board</link>
       <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
@@ -44,9 +32,10 @@
 
 &lt;h2 id=&#34;chairman:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Chairman&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/olivier profile.png&#34; alt=&#34;chairman@eestec.be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/olivier profile.jgp&#34; alt=&#34;Olivier Profile&#34; title=&#34;chairman@eestec.be&#34; /&gt;
+&lt;/p&gt;
 
-Olivier Brewaeys&lt;/p&gt;
+&lt;p&gt;Olivier Brewaeys&lt;/p&gt;
 
 &lt;h2 id=&#34;treasurer:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Treasurer&lt;/h2&gt;
 
@@ -65,6 +54,18 @@ Evert Heylen&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/simon profile.png&#34; alt=&#34;pr@eestec.be&#34; /&gt;
 
 Simon Van Mierlo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about</link>
+      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
+      
+      <guid>/about</guid>
+      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
+
+&lt;p&gt;update&lt;/p&gt;
 </description>
     </item>
     
