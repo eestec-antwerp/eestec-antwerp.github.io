@@ -23,6 +23,18 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about</link>
+      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
+      
+      <guid>/about</guid>
+      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
+
+&lt;p&gt;update&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Current Board</title>
       <link>/board</link>
       <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
@@ -53,18 +65,6 @@ Evert Heylen&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/simon profile.png&#34; alt=&#34;pr@eestec.be&#34; /&gt;
 
 Simon Van Mierlo&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 CET</pubDate>
-      
-      <guid>/about</guid>
-      <description>&lt;p&gt;This is EESTEC Antwerp! (about)&lt;/p&gt;
-
-&lt;p&gt;update&lt;/p&gt;
 </description>
     </item>
     
