@@ -19,7 +19,7 @@ Thomas Pinna
 
 Contact Person
 --------------
-![cp profile](/img/evert\ profile.jpg "cp[at]eestec[dot]be")
+![cp profile](/img/evert\ profile.png "cp@eestec.be")
 
 Evert Heylen
 
