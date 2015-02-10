@@ -4,10 +4,10 @@ title = "EESTEC Antwerpen"
 
 [params]
     ProfilePicture = "/img/logo.png"
-    Description    = "Beschrijving hier"
+    Description    = ""
     twitter        = "https://twitter.com/eestecantwerp"
     twittername    = "eestecantwerp"
     facebook       = "https://www.facebook.com/eestecantwerp"
     email          = "board[at]eestec[dot]be"
-    showcase       = "Hello"
+    showcase       = ""
     rss            = "/index.xml"
