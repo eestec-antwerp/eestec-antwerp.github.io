@@ -16,4 +16,4 @@ Kom dan zeker af! Wij zorgen voor eten.
 WHEN: 26 februari, 18u15
 WHERE: Campus Middelheim UA, Lokaal MG010
 
-Schrijf je hier in of zet je aanwezig op Facebook. (COMING)
+Schrijf je hier (COMING) in of zet je aanwezig op [Facebook](https://www.facebook.com/events/408628709293292/408628712626625/?notif_t=like).
