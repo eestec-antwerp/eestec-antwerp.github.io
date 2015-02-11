@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forms on EESTEC Antwerpen</title>
-    <link>/form/</link>
-    <description>Recent content in Forms on EESTEC Antwerpen</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title>Forms on EESTEC Antwerpen </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>/form/index.xml/</link>
     <language>be-nl</language>
     
     
-    
-    <lastBuildDate>Tue, 03 Feb 2015 11:38:02 CET</lastBuildDate>
-    <atom:link href="/form/index.xml" rel="self" type="application/rss+xml" />
+    <updated>Tue, 03 Feb 2015 11:38:02 CET</updated>
     
     <item>
       <title>Vakantiewerk 2015</title>
