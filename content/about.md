@@ -22,7 +22,7 @@ Wat is EESTEC Antwerpen?
 EESTEC Antwerpen werd opgericht in september 2010 door enkele enthousiaste
 studenten informatica aan de Universiteit Antwerpen en is sinds november 2012
 een "Local Comittee".
-Dit wil zeggen dat we een volwaardig lid zijn van de organisatie. We hebben al verschillende leden naar evenementen kunnen sturen in onder andere Estland, Servi??, Roemeni??, Finland, Polen en Griekenland en hebben zelf ook al enkele internationale evenementen kunnen organiseren.
+Dit wil zeggen dat we een volwaardig lid zijn van de organisatie. We hebben al verschillende leden naar evenementen kunnen sturen in onder andere Estland, Servië, Roemenië, Finland, Polen en Griekenland en hebben zelf ook al enkele internationale evenementen kunnen organiseren.
 Zo was er vorig jaar de succesvolle AntwerPi workshop waarmee de krant zelfs
 werd gehaald.
 
