@@ -4,8 +4,8 @@ draft = false
 title = "Contacteer ons"
 front = false
 url = "/contact"
-form_url = "https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform"
-form_height = "1800em"
+form_url = "https://docs.google.com/a/eestec.be/forms/d/1UcryCJtwoRwpTRdZKCAsPx86uASyJOnEA9NFKblKYEs/viewform"
+form_height = "700em"
 +++
 
 Je kan ons ook contacteren op [board@eestec.be](mailto:eestec.be).
