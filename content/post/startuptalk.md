@@ -13,7 +13,8 @@ ook een executive van een gevestigd bedrijf.
 Altijd al getwijfeld om voor jezelf aan de slag te gaan in plaats van bij die multinational? Of wil je gewoon wat meer weten of een paar interessante vlaamse startups?
 Kom dan zeker af! Wij zorgen voor eten.
 
-WHEN: 26 februari, 18u15
-WHERE: Campus Middelheim UA, Lokaal MG010
+**WHEN**: 26 februari, 18u15
 
-Schrijf je hier (COMING) in of zet je aanwezig op [Facebook](https://www.facebook.com/events/408628709293292/408628712626625/?notif_t=like).
+**WHERE**: Campus Middelheim UA, Lokaal MG010
+
+Schrijf je [hier](/form/startupform) in of zet je aanwezig op [Facebook](https://www.facebook.com/events/408628709293292/408628712626625/?notif_t=like).
