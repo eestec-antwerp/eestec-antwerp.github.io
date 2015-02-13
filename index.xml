@@ -9,8 +9,30 @@
     
     
     
-    <lastBuildDate>Tue, 10 Feb 2015 23:27:07 CET</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2015 10:03:36 CET</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacteer ons</title>
+      <link>/contact</link>
+      <pubDate>Wed, 11 Feb 2015 10:03:36 CET</pubDate>
+      
+      <guid>/contact</guid>
+      <description>&lt;p&gt;Je kan ons ook contacteren op &lt;a href=&#34;mailto:eestec.be&#34;&gt;board@eestec.be&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Registratie Startup talk</title>
+      <link>/form/startupform/</link>
+      <pubDate>Wed, 11 Feb 2015 10:03:36 CET</pubDate>
+      
+      <guid>/form/startupform/</guid>
+      <description>&lt;p&gt;Meer info vind je &lt;a href=&#34;/startuptalk&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Je kan je ook op aanwezig zetten op ons &lt;a href=&#34;https://www.facebook.com/events/408628709293292/?ref_newsfeed_story_type=regular&#34;&gt;Facebook event&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome (again)!</title>
@@ -28,11 +50,32 @@ volg ons op &lt;a href=&#34;http://twitter.com/eestecantwerp&#34;&gt;Twitter&lt;
     </item>
     
     <item>
+      <title>Startup talk</title>
+      <link>/startuptalk</link>
+      <pubDate>Mon, 09 Feb 2015 22:28:02 CET</pubDate>
+      
+      <guid>/startuptalk</guid>
+      <description>&lt;p&gt;Verschillende ondernemers vanuit verschillende fasen uit het startup gebeuren
+komen praten over hun ervaringen. We hebben een net afgestudeerde student maar
+ook een executive van een gevestigd bedrijf.&lt;/p&gt;
+
+&lt;p&gt;Altijd al getwijfeld om voor jezelf aan de slag te gaan in plaats van bij die multinational? Of wil je gewoon wat meer weten of een paar interessante vlaamse startups?
+Kom dan zeker af! Wij zorgen voor eten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: 26 februari, 18u15&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim UA, Lokaal MG010&lt;/p&gt;
+
+&lt;p&gt;Schrijf je &lt;a href=&#34;/form/startupform&#34;&gt;hier&lt;/a&gt; in of zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/408628709293292/408628712626625/?notif_t=like&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vakantiewerk 2015</title>
-      <link>/vakantiewerk2015</link>
+      <link>/vakantiewerk</link>
       <pubDate>Tue, 03 Feb 2015 11:38:02 CET</pubDate>
       
-      <guid>/vakantiewerk2015</guid>
+      <guid>/vakantiewerk</guid>
       <description>&lt;p&gt;Vul onderstaand formulier in zodat wij je met de beste bedrijven kunnen matchen.
 Indien het niet goed zichtbaar is, kan je het ook rechtstreeks &lt;a href=&#34;https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform&#34;&gt;hier&lt;/a&gt; invullen.&lt;/p&gt;
 </description>
@@ -66,7 +109,7 @@ Dit wil zeggen dat we een volwaardig lid zijn van de organisatie. We hebben al v
 Zo was er vorig jaar de succesvolle AntwerPi workshop waarmee de krant zelfs
 werd gehaald.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/antwerpi.png&#34; alt=&#34;AntwerPi picture&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/antwerpi.png&#34; alt=&#34;AntwerPi picture&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Naast de internationale activiteiten brengen we op lokaal niveau
@@ -84,7 +127,7 @@ bloeiende techhubs gaan bezoeken.&lt;/p&gt;
 &lt;p&gt;Like ons zeker op &lt;a href=&#34;https://www.facebook.com/eestecantwerp&#34;&gt;Facebook&lt;/a&gt; en volg ons op &lt;a href=&#34;https://www.twitter.com/eestecantwerp&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;Wil je een ons helpen, heb je een suggestie of wil je nog meer info?
-Contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.be&lt;/a&gt;.&lt;/p&gt;
+Contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.be&lt;/a&gt; of via &lt;a href=&#34;/contact&#34;&gt;dit formulier&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -98,31 +141,35 @@ Contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.b
 
 &lt;h2 id=&#34;chairman:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Chairman&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/olivier profile.jpg&#34; alt=&#34;chairman profile&#34; title=&#34;chairman[at]eestec[dot]be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/olivier profile.jpg&#34; alt=&#34;chairman profile&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Olivier Brewaeys&lt;/p&gt;
+&lt;p&gt;Olivier Brewaeys
+&lt;a href=&#34;mailto:chairman@eestec.be&#34;&gt;chairman@eestec.be&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;treasurer:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Treasurer&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/thomas profile.jpg&#34; alt=&#34;treasurer profile&#34; title=&#34;treasurer[at]eestec[dot]be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/thomas profile.jpg&#34; alt=&#34;treasurer profile&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Thomas Pinna&lt;/p&gt;
+&lt;p&gt;Thomas Pinna
+&lt;a href=&#34;mailto:treasurer@eestec.be&#34;&gt;treasurer@eestec.be&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;contact-person:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Contact Person&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/evert profile.png&#34; alt=&#34;cp profile&#34; title=&#34;cp@eestec.be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/evert profile.png&#34; alt=&#34;cp profile&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Evert Heylen&lt;/p&gt;
+&lt;p&gt;Evert Heylen
+&lt;a href=&#34;mailto:cp@eestec.be&#34;&gt;cp@eestec.be&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;public-relations:3da91265e6ddb1686c4454b5d3cd0048&#34;&gt;Public Relations&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/simon profile.jpg&#34; alt=&#34;pr profile&#34; title=&#34;pr[at]eestec[dot]be&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/simon profile.jpg&#34; alt=&#34;pr profile&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Simon Van Mierlo&lt;/p&gt;
+&lt;p&gt;Simon Van Mierlo
+&lt;a href=&#34;mailto:pr@eestec.be&#34;&gt;pr@eestec.be&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
