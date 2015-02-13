@@ -4,10 +4,8 @@ title = "EESTEC Antwerpen"
 
 [params]
     #ProfilePicture = "/img/logo.png"
-    Description    = "Welcome to EESTEC's only LC in Belgium, proudly located in Antwerp!"
+    Description    = ""
     twitter        = "https://twitter.com/eestecantwerp"
-    #twittername    = "eestecantwerp"
     facebook       = "https://www.facebook.com/eestecantwerp"
-    #email          = "board[at]eestec[dot]be"
-    #showcase       = "Hello"
+    showcase       = "Welcome to the EESTEC Antwerp website!"
     rss            = "/rss"
