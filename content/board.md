@@ -10,25 +10,28 @@ Chairman
 ![chairman profile](/img/olivier\ profile.jpg)
 
 Olivier Brewaeys
-<chairman@eestec.be>
+* Mail: <chairman@eestec.be>
+* Twitter: [olbrew](twitter.com/olbrew)
 
 Treasurer
 ---------
 ![treasurer profile](/img/thomas\ profile.jpg)
 
 Thomas Pinna
-<treasurer@eestec.be>
+* Mail: <treasurer@eestec.be>
+* Twitter: [webthomas](twitter.com/webthomas)
 
 Contact Person
 --------------
 ![cp profile](/img/evert\ profile.png)
 
 Evert Heylen
-<cp@eestec.be>
+* Mail: <cp@eestec.be>
+* Twitter: [evertheylen](twitter.com/evertheylen)
 
 Public Relations
 ----------------
 ![pr profile](/img/simon\ profile.jpg)
 
 Simon Van Mierlo
-<pr@eestec.be>
+* Mail: <pr@eestec.be>
