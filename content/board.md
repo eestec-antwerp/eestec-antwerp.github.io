@@ -7,24 +7,28 @@ url = "/board"
 
 Chairman
 --------
-![chairman profile](/img/olivier\ profile.jpg "chairman[at]eestec[dot]be")
+![chairman profile](/img/olivier\ profile.jpg)
 
 Olivier Brewaeys
+<chairman@eestec.be>
 
 Treasurer
 ---------
-![treasurer profile](/img/thomas\ profile.jpg "treasurer[at]eestec[dot]be")
+![treasurer profile](/img/thomas\ profile.jpg)
 
 Thomas Pinna
+<treasurer@eestec.be>
 
 Contact Person
 --------------
-![cp profile](/img/evert\ profile.png "cp@eestec.be")
+![cp profile](/img/evert\ profile.png)
 
 Evert Heylen
+<cp@eestec.be>
 
 Public Relations
 ----------------
-![pr profile](/img/simon\ profile.jpg "pr[at]eestec[dot]be")
+![pr profile](/img/simon\ profile.jpg)
 
 Simon Van Mierlo
+<pr@eestec.be>
