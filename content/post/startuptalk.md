@@ -1,6 +1,6 @@
 +++
 date = "2015-02-09T22:28:02+01:00"
-draft = true
+draft = false
 title = "Startup talk"
 url = "/startuptalk"
 front = true
@@ -13,7 +13,8 @@ ook een executive van een gevestigd bedrijf.
 Altijd al getwijfeld om voor jezelf aan de slag te gaan in plaats van bij die multinational? Of wil je gewoon wat meer weten of een paar interessante vlaamse startups?
 Kom dan zeker af! Wij zorgen voor eten.
 
-WHEN: 26 februari, 18u15
-WHERE: Campus Middelheim UA, Lokaal MG010
+**WHEN**: 26 februari, 18u15
 
-Schrijf je hier in of zet je aanwezig op Facebook. (COMING)
+**WHERE**: Campus Middelheim UA, Lokaal MG010
+
+Schrijf je [hier](/form/startupform) in of zet je aanwezig op [Facebook](https://www.facebook.com/events/408628709293292/408628712626625/?notif_t=like).

@@ -26,7 +26,7 @@ Dit wil zeggen dat we een volwaardig lid zijn van de organisatie. We hebben al v
 Zo was er vorig jaar de succesvolle AntwerPi workshop waarmee de krant zelfs
 werd gehaald.
 
-![AntwerPi picture](img/antwerpi.png)
+![AntwerPi picture](/img/antwerpi.png)
 
 
 Naast de internationale activiteiten brengen we op lokaal niveau
@@ -45,4 +45,4 @@ Interesse?
 Like ons zeker op [Facebook](https://www.facebook.com/eestecantwerp) en volg ons op [Twitter](https://www.twitter.com/eestecantwerp)!
 
 Wil je een ons helpen, heb je een suggestie of wil je nog meer info?
-Contacteer ons via <mailto:board@eestec.be>.
+Contacteer ons via <mailto:board@eestec.be> of via [dit formulier](/contact).
