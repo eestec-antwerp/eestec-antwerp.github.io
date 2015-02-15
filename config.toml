@@ -3,8 +3,8 @@ languageCode = "be-nl"
 title = "EESTEC Antwerpen"
 
 [params]
-    #ProfilePicture = "/img/logo.png"
-    Description    = ""
+    profilepicture = "/img/logo.png"
+    description    = ""
     twitter        = "https://twitter.com/eestecantwerp"
     facebook       = "https://www.facebook.com/eestecantwerp"
     showcase       = "Welcome to the EESTEC Antwerp website!"
