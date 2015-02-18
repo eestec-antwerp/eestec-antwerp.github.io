@@ -1,11 +1,18 @@
 baseurl = "http://eestec.be"
 languageCode = "be-nl"
 title = "EESTEC Antwerpen"
+theme = "herring-cove"
 
 [params]
     profilepicture = "/img/logo.png"
-    description    = ""
+    description    = "The website of EESTEC's only LC, proudly located in Antwerp!"
     twitter        = "https://twitter.com/eestecantwerp"
     facebook       = "https://www.facebook.com/eestecantwerp"
     showcase       = "Welcome to the EESTEC Antwerp website!"
     rss            = "/rss"
+    contact        = "/contact"
+    [links]
+        Home                = "/"
+        About               = "/about/"
+        Board               = "/board/"
+        "Vakantiewerk 2015" = "/vakantiewerk/"

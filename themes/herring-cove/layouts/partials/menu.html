@@ -1,4 +1,11 @@
-<li><a href="{{ .Site.BaseUrl }}/">Home</a></li>
-<li><a href="{{ .Site.BaseUrl }}/about/">About</a></li>
-<li><a href="{{ .Site.BaseUrl }}/board/">Board</a></li>
-<li><a href="{{ .Site.BaseUrl }}/vakantiewerk/">Vakantiewerk 2015</a></li>
+<!--{{range $index, $element := .Site.Params.links}}
+                <li><a href="{{ .Site.BaseUrl }}{{ $element }}">{{ $index }}</a>
+    </li> {{ end }}-->
+<li><a href="{{ .Site.BaseUrl }}/">Home</a>
+</li>
+<li><a href="{{ .Site.BaseUrl }}/about/">About</a>
+</li>
+<li><a href="{{ .Site.BaseUrl }}/board/">Board</a>
+</li>
+<li><a href="{{ .Site.BaseUrl }}/vakantiewerk/">Vakantiewerk 2015</a>
+</li>

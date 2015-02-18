@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\034[0;32mDeploying updates to GitHub...\033[0m"
 echo -e "Insert your commit message as argument to this script."
 
 # recreate website
-hugo --theme=herring-cove
+hugo
 
 # go inside (re)generated public folder
 cd public
