@@ -16,7 +16,7 @@ cp index.xml rss
 git add -A
 
 # prepare git commit message
-msg="rebuilding site `date`"
+msg="rebuilding site $(date +"%Y/%m/%d %H:%M") $1"
 if [ $# -eq 1 ]
     then msg="$1"
 fi
