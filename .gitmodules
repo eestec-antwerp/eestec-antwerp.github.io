@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:eestec-antwerp/eestec-antwerp.github.io.git
