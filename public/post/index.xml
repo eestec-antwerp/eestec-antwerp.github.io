@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on EESTEC Antwerpen</title>
-    <link>/post/</link>
+    <link>http://www.eestec.be/post/</link>
     <description>Recent content in Posts on EESTEC Antwerpen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
@@ -10,14 +10,14 @@
     
     
     <lastBuildDate>Sun, 15 Feb 2015 22:28:02 CET</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.eestec.be/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Startup talk</title>
-      <link>/startuptalk</link>
+      <link>http://www.eestec.be/startuptalk</link>
       <pubDate>Sun, 15 Feb 2015 22:28:02 CET</pubDate>
       
-      <guid>/startuptalk</guid>
+      <guid>http://www.eestec.be/startuptalk</guid>
       <description>&lt;p&gt;Je hebt altijd al je eigen bedrijf willen oprichten?
 Je zit al lang met dat billion-dollar-idea maar nog niet de tijd of de juiste persoon gevonden om er ook echt aan te beginnen?
 Waarom zou je als (pas afgestudeerde) student je eigen voor een startup gaan werken in plaats van voor die grote multinational?
@@ -38,16 +38,16 @@ Volledig gebeten door de ondernemersmicrobe is hij de oprichter van onder meer &
 
 &lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim UA, Lokaal MG010&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt; Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/408628709293292/408628712626625/&#34;&gt;Facebook&lt;/a&gt; of schrijf je &lt;a href=&#34;/form/startupform&#34;&gt;hier&lt;/a&gt; in als je Facebook niet gebruikt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt; Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/408628709293292/408628712626625/&#34;&gt;Facebook&lt;/a&gt; of schrijf je &lt;a href=&#34;http://www.eestec.be/form/startupform&#34;&gt;hier&lt;/a&gt; in als je Facebook niet gebruikt.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome (again)!</title>
-      <link>/welcomeagain</link>
+      <link>http://www.eestec.be/welcomeagain</link>
       <pubDate>Tue, 10 Feb 2015 23:27:07 CET</pubDate>
       
-      <guid>/welcomeagain</guid>
+      <guid>http://www.eestec.be/welcomeagain</guid>
       <description>&lt;p&gt;Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig
 board. Wij zijn druk in de weer om een fantastisch semester voor jullie voor te
 bereiden.
