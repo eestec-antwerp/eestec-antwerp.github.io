@@ -13,7 +13,7 @@ Na de Startup talk blijft EESTEC nog even in de startup sfeer hangen, want wij
 gaan samen met [AFT Leuven](https://www.facebook.com/aftleuven) naar Berlijn!
 
 
-![sstb banner](/img/sstb\ banner.png)
+![sstb banner](/img/sstb\ banner.jpg)
 
 
 Na het succes van de trip vorig jaar naar Londen organiseren zij dit jaar een
@@ -26,4 +26,4 @@ Interesse om samen met 40 andere young potentials mee te gaan in april?
 Let op de registraties sluiten reeds op 1 maart, wacht dus niet te lang.
 
 
-![sstb register](/img/sstb\ register.png)
+![sstb register](/img/sstb\ register.jpg)
