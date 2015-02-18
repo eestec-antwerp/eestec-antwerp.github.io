@@ -22,8 +22,8 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-# push source and build repos
-git push origin master
-
-# and finally return
+# return
 cd ..
+
+# push (re)built website
+git subtree push --prefix public origin master
