@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo -e "\034[0;32mDeploying updates to GitHub...\033[0m"
-echo -e "Insert your commit message as argument to this script."
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[1;32mInsert your commit message as argument to this script.\033[0m"
 
 # recreate website
 hugo
@@ -9,21 +9,23 @@ hugo
 # go inside (re)generated public folder
 cd public
 
-# make sure rss works
+# prepare rss
 cp index.xml rss
 
 # add changes to git
 git add -A
 
-# git commit with default message or script argument
+# prepare git commit message
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
     then msg="$1"
 fi
-git commit -m "$msg"
 
-# return
+# quietly commit if success
+git commit -qm "$msg"
+
+# push source and build repos
+git push -q origin master
+
+# and finally return
 cd ..
-
-# push (re)built website
-git subtree push --prefix public origin master
