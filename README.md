@@ -1,25 +1,26 @@
-# Website voor EESTEC LC Antwerpen
+# EESTEC LC Antwerpen website source
 
 This is the source code for the website of EESTEC Local Chapter in Antwerpen.
+You can see it in action at <http://eestec.be>.
 Built with the wonderful [Hugo](http://gohugo.io/).
 
+## Contributing
+### Website code changes
+Test changes locally by running the server:
 
-## Artikels maken/bewerken
+    hugo server -wD
 
-Een nieuw artikel maken/bewerken gaat als volgt:
+See them live at <http://localhost:1313>.
+When everything works as expected you can (re)build the website with `deploy.sh`.
 
-    git checkout hugo
-    hugo new naam.md # enkel voor nieuwe artikels, obviously
-    edit ./content/naam.md
-    # check verandering eerst, zie beneden
-    ./update.sh
+This updates the website itself, not your current source repository so you can keep
+cleanly separated commit histories.
+It is best to first run the `deploy.sh` script and then commit all changes to
+the source.
 
-**update.sh** zal het artikel in git zetten, de website bouwen, en de master branch
-updaten, zodat ook github pages de verandering ziet.
+### Writing new posts
+In the website source root:
 
+    hugo new post/naam.md
 
-## Testen
-
-Om een verandering te testen:
-
-    hugo server --theme=herring-cove --buildDrafts --watch
+Then follow steps for website code changes
