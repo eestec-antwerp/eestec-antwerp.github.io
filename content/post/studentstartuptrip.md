@@ -27,3 +27,10 @@ Let op de registraties sluiten reeds op 1 maart, wacht dus niet te lang.
 
 
 ![sstb register](/img/sstb\ register.jpg)
+
+
+**EDIT:** Dankzij Start it @KBC is het nu ook mogelijk om gratis mee te komen!
+Je hebt enkel een goed startup idee nodig. De beste drie worden beloond met een
+gratis trip naar Berlijn twv €200.
+Voor meer info ga wederom naar de [website](http://www.studentstartuptrip.be) en
+kijk onder de Pitch4Berlin competitie.
