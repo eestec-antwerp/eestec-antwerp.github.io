@@ -16,7 +16,7 @@ Olivier Brewaeys
 
 Treasurer
 ---------
-![treasurer profile](/img/thomas\ profile.jpg)
+![treasurer profile](/img/thomas\ profile.png)
 
 Thomas Pinna
 
