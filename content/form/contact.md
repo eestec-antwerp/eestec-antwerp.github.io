@@ -8,4 +8,4 @@ form_url = "https://docs.google.com/a/eestec.be/forms/d/1UcryCJtwoRwpTRdZKCAsPx8
 form_height = "700em"
 +++
 
-Je kan ons ook contacteren op [board@eestec.be](mailto:eestec.be).
+Laat hieronder een berichtje achter of contacteer ons via <board@eestec.be>.
