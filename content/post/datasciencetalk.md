@@ -8,7 +8,7 @@ front = true
 
 <!-- TODO: vervang link naar facebook event, zowel banner als SIGN UP -->
 
-[![Banner](/img/datascience.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Banner](/img/datascience.png)](https://www.facebook.com/events/1592191081022429/)
 
 *"Knowledge is derived from information, which is derived from data."*
 
@@ -26,6 +26,6 @@ We voorzien **gratis eten en drinken**.
 
 **WHERE**: Campus Middelheim, MG010
 
-**SIGN UP**: Zet je aanwezig op [Facebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (zo kunnen we ook inschatten hoe veel eten we moeten voorzien).
+**SIGN UP**: Zet je aanwezig op [Facebook](https://www.facebook.com/events/1592191081022429/) (zo kunnen we ook inschatten hoe veel eten we moeten voorzien).
 
 
