@@ -6,9 +6,7 @@ url = "/datasciencetalk"
 front = true
 +++
 
-<!-- TODO: vervang link naar facebook event, zowel banner als SIGN UP -->
-
-[![Banner](/img/datascience.png)](https://www.facebook.com/events/1592191081022429/)
+[![Banner](/img/datascience.jpg)](https://www.facebook.com/events/1592191081022429/)
 
 *"Knowledge is derived from information, which is derived from data."*
 
