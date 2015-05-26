@@ -4,8 +4,8 @@ title = "EESTEC Antwerpen"
 theme = "herring-cove"
 
 [params]
-    profilepicture = "/img/logo.png"
-    description    = "The website of EESTEC's only LC, proudly located in Antwerp!"
+    description    = "LC Antwerpen"
+    logo           = "/img/logo.svg"
     twitter        = "https://twitter.com/eestecantwerp"
     facebook       = "https://www.facebook.com/eestecantwerp"
     showcase       = "Welcome to the EESTEC Antwerp website!"
