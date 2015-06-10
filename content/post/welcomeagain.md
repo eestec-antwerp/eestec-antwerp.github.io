@@ -1,8 +1,6 @@
 +++
-date = "2015-02-10T23:27:07+01:00"
-draft = false
 title = "Welcome (again)!"
-url = "/welcomeagain"
+date = "2015-02-10T23:27:07+01:00"
 front = true
 +++
 

@@ -1,8 +1,6 @@
 +++
-date = "2015-02-15T22:28:02+01:00"
-draft = false
 title = "Startup talk"
-url = "/startuptalk"
+date = "2015-02-15T22:28:02+01:00"
 front = true
 +++
 
@@ -26,4 +24,4 @@ Zet je aub enkel op aanwezig als je ook daadwerkelijk plant te komen zodat wij h
 
 **WHERE**: Campus Middelheim UA, Lokaal MG010
 
-**SIGN UP** Zet je aanwezig op [Facebook](https://www.facebook.com/events/408628709293292/408628712626625/) of schrijf je [hier](/form/startupform) in als je Facebook niet gebruikt.
+**SIGN UP** Zet je aanwezig op [Facebook](https://www.facebook.com/events/408628709293292/408628712626625/).

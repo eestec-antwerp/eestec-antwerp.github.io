@@ -1,11 +1,6 @@
 +++
-Categories = []
-Description = ""
-Tags = []
-date = "2015-02-18T19:28:40+01:00"
 title = "Student Startup Trip"
-url="/studentstartuptrip"
-draft = false
+date = "2015-02-18T19:28:40+01:00"
 front = true
 +++
 

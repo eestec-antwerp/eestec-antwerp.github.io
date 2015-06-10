@@ -1,8 +1,6 @@
 +++
-date = "2015-04-28T22:43:48+02:00"
-draft = false
 title = "Data Science talk"
-url = "/datasciencetalk"
+date = "2015-04-28T22:43:48+02:00"
 front = true
 +++
 

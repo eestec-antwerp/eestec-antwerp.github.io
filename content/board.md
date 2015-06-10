@@ -1,8 +1,6 @@
 +++
-date = "2015-01-29T13:33:01+01:00"
-draft = false
 title = "Board"
-url = "/board"
+date = "2015-01-29T13:33:01+01:00"
 +++
 
 Chairman
