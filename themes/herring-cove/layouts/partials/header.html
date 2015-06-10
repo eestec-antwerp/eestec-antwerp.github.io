@@ -26,12 +26,13 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <p class="navbar-brand"><a href="{{ .Site.BaseURL }}/">{{ .Site.Title }}</a>
+                    <p class="navbar-brand">
+                        <a href="{{ .Site.BaseURL }}/">{{ .Site.Title }}</a>
                     </p>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        {{ partial "menu.html" }}
+                        {{ partial "menu.html" . }}
                     </ul>
                     <hr/>
                     <ul class="nav navbar-nav">
@@ -42,8 +43,6 @@
             </div>
         </div>
 
-
-
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
@@ -53,7 +52,12 @@
                     </a>
                     <!--<h3>{{ .Site.Params.description }}</h3>-->
                 </li>
-                <hr />{{ partial "menu.html" }}
+                <hr />{{ partial "menu.html" . }}
+                <!--{{ range $i, $e := .Site.Params.links }}
+                <li>
+                    <a href="{{ .Site.BaseURL }}{{ $e }}">{{ $i }}</a>
+                </li>
+                {{ end }}-->
                 <hr />
                 <div id="social-wrapper">
                     {{ partial "social.html" . }}
