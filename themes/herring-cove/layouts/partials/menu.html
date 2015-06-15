@@ -1,8 +1,55 @@
-<li><a href="{{ .Site.BaseURL }}/">Home</a>
-</li>
-<li><a href="{{ .Site.BaseURL }}/about/">About</a>
-</li>
-<li><a href="{{ .Site.BaseURL }}/board/">Board</a>
-</li>
-<li><a href="{{ .Site.BaseURL }}/vakantiewerk/">Vakantiewerk</a>
-</li>
+<!-- Navigation bar for mobile -->
+<div class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <p class="navbar-brand">
+                <a href="{{ .Site.BaseURL }}/">{{ .Site.Title }}</a>
+            </p>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                {{ $currentNode := . }} {{ range .Site.Menus.main }}
+                <li {{if $currentNode.IsMenuCurrent "main" . }} class="active" {{end}}>
+                    <a href="{{.URL}}"> {{ .Name }} </a>
+                </li>
+                {{ end }}
+            </ul>
+            <hr/>
+            <ul class="nav navbar-nav">
+                {{ partial "social.html" . }}
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+</div>
+
+<!-- Sidebar -->
+<div id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+        <li class="sidebar-brand">
+            <a href="{{ .Site.BaseURL }}/">
+            {{ with .Site.Params.logo }}
+                <img src="{{ . }}" />
+            {{ else }}
+                <h1 class="brand">{{ .Site.Title }}</h1>
+            {{ end }}
+            </a>
+            <h3>{{ .Site.Params.description }}</h3>
+        </li>
+        <hr />{{ $currentNode := . }} {{ range .Site.Menus.main }}
+        <li {{if $currentNode.IsMenuCurrent "main" . }} class="active" {{end}}>
+            <a href="{{.URL}}"> {{ .Name }} </a>
+        </li>
+        {{ end }}
+        <hr />
+        <div id="social-wrapper">
+            {{ partial "social.html" . }}
+        </div>
+    </ul>
+</div>
