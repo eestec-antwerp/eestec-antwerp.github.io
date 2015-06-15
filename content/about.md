@@ -1,6 +1,7 @@
 +++
 title = "About"
 date = "2015-01-29T13:33:01+01:00"
+menu = "main"
 +++
 
 Wat is EESTEC?
