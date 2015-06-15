@@ -1,79 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <title>{{ .Title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ .Description }}">
-    <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ .Site.BaseURL }}/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{ .Site.BaseURL }}/css/hc.css" rel="stylesheet">
-    <link href="/favicon.ico" rel="icon" type="image/x-icon">
-    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-</head>
+    <head>
+        <title>{{ .Title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="{{ .Description }}">
+        <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
+        <link href="{{ .Site.BaseURL }}/css/font-awesome.min.css" rel="stylesheet">
+        <link href="{{ .Site.BaseURL }}/css/hc.css" rel="stylesheet">
+        <link href="/favicon.ico" rel="icon" type="image/x-icon">
+        <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    </head>
 
-<body>
-    <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Herring Cove</div>
-    <div id="wrapper">
-
-        <!-- Navigation bar for mobile -->
-        <div class="navbar navbar-default" role="navigation">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <p class="navbar-brand">
-                        <a href="{{ .Site.BaseURL }}/">{{ .Site.Title }}</a>
-                    </p>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        {{ partial "menu.html" . }}
-                    </ul>
-                    <hr/>
-                    <ul class="nav navbar-nav">
-                        {{ partial "social.html" . }}
-                    </ul>
-                </div>
-                <!--/.nav-collapse -->
-            </div>
-        </div>
-
-        <!-- Sidebar -->
-        <div id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="{{ .Site.BaseURL }}/">
-                        <img src="{{ .Site.Params.logo }}" />
-                    </a>
-                    <!--<h3>{{ .Site.Params.description }}</h3>-->
-                </li>
-                <hr />{{ partial "menu.html" . }}
-                <!--{{ range $i, $e := .Site.Params.links }}
-                <li>
-                    <a href="{{ .Site.BaseURL }}{{ $e }}">{{ $i }}</a>
-                </li>
-                {{ end }}-->
-                <hr />
-                <div id="social-wrapper">
-                    {{ partial "social.html" . }}
-                </div>
-            </ul>
-        </div>
-
-        <!-- Showcase image on homepage -->
-        {{ if eq .URL "/" }}
-        <div class="showcase-wrapper sticky" style="display: block;">
-            {{ with .Site.Params.showcase }}
-            <div class="showcase-text">{{.}}</div>
-            {{ end }}
-        </div>
-        {{ end }}
-
-        <!-- Content -->
-        <div class="container">
-
+    <body>
+        <!--<div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Herring
+            Cove</div>-->
+            {{ partial "menu.html" . }}
+        <div id="wrapper">
