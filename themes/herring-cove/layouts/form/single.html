@@ -33,13 +33,13 @@
     {{ if eq .Params.front true }}
     <ul class="pager">
         {{with .Prev}} &nbsp;
-        <li class="previous"><a href="{{.Permalink}}"> {{.Title}}</a>
+        <li class="previous"><a href="{{.Permalink}}">&larr; {{.Title}}</a>
         </li>{{end}} {{with .Next}} &nbsp;
-        <li class="next"><a href="{{.Permalink}}"> {{.Title}}</a>
+        <li class="next"><a href="{{.Permalink}}"> {{.Title}} &rarr;</a>
         </li>{{end}}
     </ul>
-    {{ end }} 
-    
+    {{ end }}
+
     {{ template "_internal/disqus.html" . }}
 
     </ul>
