@@ -12,7 +12,7 @@ copyright = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa
 [params]
     description = ""
     logo        = "/img/logo.svg"
-    twitter     = "https://twitter.com/eestecantwerp"
+    twitter     = "eestecantwerp"
     facebook    = "https://www.facebook.com/eestecantwerp"
     showcase    = "Welcome to the EESTEC Antwerp website!"
     rss         = "/rss"
