@@ -13,6 +13,10 @@
         <hr/>
         <div class="post">
             {{ .Content }}
+            {{ with .Params.formurl }}
+            <hr/>
+            <iframe src="{{ . }}" class="form" height="700em"></iframe>
+            {{ end }}
         </div>
     </div>
 

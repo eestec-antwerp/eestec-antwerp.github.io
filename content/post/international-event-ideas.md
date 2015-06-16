@@ -2,8 +2,7 @@
 date = "2015-06-16T16:45:11+02:00"
 title = "Internationaal event ideeën"
 front = true
-form_url = "https://docs.google.com/forms/d/1s7Odnx2NcGWVBxBEwI1dbocOH7DjP7kZrZOfF9sdTUk/viewform"
-form_heigth = "700em"
+formurl = "https://docs.google.com/forms/d/1s7Odnx2NcGWVBxBEwI1dbocOH7DjP7kZrZOfF9sdTUk/viewform"
 +++
 
 Na het succesvolle [AntwerPI](http://antwerpi.eestec.be/) event van vorig jaar plannen wij met EESTEC Antwerpen weer een internationaal event te doen rond de zomer van volgend jaar.

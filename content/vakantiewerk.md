@@ -3,7 +3,7 @@ title = "Vakantiewerk"
 menu = "main"
 date = "2015-02-03T11:38:02+01:00"
 front = false
-form_url = "https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform"
+formurl = "https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform"
 form_height = "1800em"
 +++
 
