@@ -3,17 +3,17 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 echo -e "\033[1;32mInsert your commit message as argument to this script.\033[0m"
 
-# recreate website
+# delete website for stale content
+rm -rf public/
+
+# regenerate website
 hugo
 
-# go inside (re)generated public folder
-cd public
-
 # prepare rss
-cp index.xml rss
+cp public/index.xml public/rss
 
 # add changes to git
-git add -A
+git add public
 
 # prepare git commit message
 msg="rebuilding site $(date +"%Y/%m/%d %H:%M") $1"
@@ -21,11 +21,8 @@ if [ $# -eq 1 ]
     then msg="$1"
 fi
 
-# quietly commit if success
+# quietly commit
 git commit -qm "$msg"
 
 # push source and build repos
-git push -q origin master
-
-# and finally return
-cd ..
+git subtree push --prefix=public website master
