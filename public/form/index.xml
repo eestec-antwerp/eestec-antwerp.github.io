@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on EESTEC Antwerpen</title>
+    <link>http://www.eestec.be/form/</link>
+    <description>Recent content in Forms on EESTEC Antwerpen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be-nl</language>
+    <lastBuildDate>Wed, 11 Feb 2015 10:03:36 +0100</lastBuildDate>
+    <atom:link href="http://www.eestec.be/form/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacteer ons</title>
+      <link>http://www.eestec.be/contact</link>
+      <pubDate>Wed, 11 Feb 2015 10:03:36 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/contact</guid>
+      <description>&lt;p&gt;Laat hieronder een berichtje achter of contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.be&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Registratie Startup talk</title>
+      <link>http://www.eestec.be/form/startupform/</link>
+      <pubDate>Wed, 11 Feb 2015 10:03:36 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/form/startupform/</guid>
+      <description>&lt;p&gt;Meer info vind je &lt;a href=&#34;http://www.eestec.be/startuptalk&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Je kan je ook op aanwezig zetten op ons &lt;a href=&#34;https://www.facebook.com/events/408628709293292/?ref_newsfeed_story_type=regular&#34;&gt;Facebook event&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vakantiewerk 2015</title>
+      <link>http://www.eestec.be/vakantiewerk</link>
+      <pubDate>Tue, 03 Feb 2015 11:38:02 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/vakantiewerk</guid>
+      <description>&lt;p&gt;Vul onderstaand formulier in zodat wij je met de beste bedrijven kunnen matchen.
+Indien het niet goed zichtbaar is, kan je het ook rechtstreeks &lt;a href=&#34;https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform&#34;&gt;hier&lt;/a&gt; invullen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
