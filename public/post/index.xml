@@ -6,15 +6,25 @@
     <description>Recent content in Posts on EESTEC Antwerpen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
-    <lastBuildDate>Tue, 28 Apr 2015 22:43:48 +0200</lastBuildDate>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Tue, 16 Jun 2015 00:25:19 +0200</lastBuildDate>
     <atom:link href="http://www.eestec.be/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>event ideeen</title>
+      <link>http://www.eestec.be/content/post/event-ideeen/</link>
+      <pubDate>Tue, 16 Jun 2015 00:25:19 +0200</pubDate>
+      
+      <guid>http://www.eestec.be/content/post/event-ideeen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science talk</title>
-      <link>http://www.eestec.be/datasciencetalk</link>
+      <link>http://www.eestec.be/post/datasciencetalk/</link>
       <pubDate>Tue, 28 Apr 2015 22:43:48 +0200</pubDate>
       
-      <guid>http://www.eestec.be/datasciencetalk</guid>
+      <guid>http://www.eestec.be/post/datasciencetalk/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1592191081022429/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/datascience.jpg&#34; alt=&#34;Banner&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -40,10 +50,10 @@
     
     <item>
       <title>Student Startup Trip</title>
-      <link>http://www.eestec.be/studentstartuptrip</link>
+      <link>http://www.eestec.be/post/studentstartuptrip/</link>
       <pubDate>Wed, 18 Feb 2015 19:28:40 +0100</pubDate>
       
-      <guid>http://www.eestec.be/studentstartuptrip</guid>
+      <guid>http://www.eestec.be/post/studentstartuptrip/</guid>
       <description>&lt;p&gt;Na de Startup talk blijft EESTEC nog even in de startup sfeer hangen, want wij
 gaan samen met &lt;a href=&#34;https://www.facebook.com/aftleuven&#34;&gt;AFT Leuven&lt;/a&gt; naar Berlijn!&lt;/p&gt;
 
@@ -72,10 +82,10 @@ kijk onder de Pitch4Berlin competitie.&lt;/p&gt;
     
     <item>
       <title>Startup talk</title>
-      <link>http://www.eestec.be/startuptalk</link>
+      <link>http://www.eestec.be/post/startuptalk/</link>
       <pubDate>Sun, 15 Feb 2015 22:28:02 +0100</pubDate>
       
-      <guid>http://www.eestec.be/startuptalk</guid>
+      <guid>http://www.eestec.be/post/startuptalk/</guid>
       <description>&lt;p&gt;Je hebt altijd al je eigen bedrijf willen oprichten?
 Je zit al lang met dat billion-dollar-idea maar nog niet de tijd of de juiste persoon gevonden om er ook echt aan te beginnen?
 Waarom zou je als (pas afgestudeerde) student je eigen voor een startup gaan werken in plaats van voor die grote multinational?
@@ -96,16 +106,16 @@ Volledig gebeten door de ondernemersmicrobe is hij de oprichter van onder meer &
 
 &lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim UA, Lokaal MG010&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt; Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/408628709293292/408628712626625/&#34;&gt;Facebook&lt;/a&gt; of schrijf je &lt;a href=&#34;http://www.eestec.be/form/startupform&#34;&gt;hier&lt;/a&gt; in als je Facebook niet gebruikt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt; Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/408628709293292/408628712626625/&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome (again)!</title>
-      <link>http://www.eestec.be/welcomeagain</link>
+      <link>http://www.eestec.be/post/welcomeagain/</link>
       <pubDate>Tue, 10 Feb 2015 23:27:07 +0100</pubDate>
       
-      <guid>http://www.eestec.be/welcomeagain</guid>
+      <guid>http://www.eestec.be/post/welcomeagain/</guid>
       <description>&lt;p&gt;Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig
 board. Wij zijn druk in de weer om een fantastisch semester voor jullie voor te
 bereiden.
