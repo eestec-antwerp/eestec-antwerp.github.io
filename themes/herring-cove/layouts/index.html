@@ -8,7 +8,7 @@
 </div>
 
 <div class="container">
-    {{ range .Site.Pages }} {{ if eq .Params.front true }}
+    {{ range .Site.Pages }} {{ if eq .Section "post" }}
     <a class="article-summary" href="{{ .Permalink }}">
         <div>
             <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
