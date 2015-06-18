@@ -1,7 +1,6 @@
 +++
 title = "Startup talk"
 date = "2015-02-15T22:28:02+01:00"
-front = true
 +++
 
 Je hebt altijd al je eigen bedrijf willen oprichten?

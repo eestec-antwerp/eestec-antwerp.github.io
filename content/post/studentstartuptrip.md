@@ -1,7 +1,6 @@
 +++
 title = "Student Startup Trip"
 date = "2015-02-18T19:28:40+01:00"
-front = true
 +++
 
 Na de Startup talk blijft EESTEC nog even in de startup sfeer hangen, want wij

@@ -1,7 +1,6 @@
 +++
 title = "Data Science talk"
 date = "2015-04-28T22:43:48+02:00"
-front = true
 +++
 
 [![Banner](/img/datascience.jpg)](https://www.facebook.com/events/1592191081022429/)

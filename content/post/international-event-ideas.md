@@ -1,7 +1,6 @@
 +++
 date = "2015-06-16T16:45:11+02:00"
 title = "Internationaal event ideeën"
-front = true
 formurl = "https://docs.google.com/forms/d/1s7Odnx2NcGWVBxBEwI1dbocOH7DjP7kZrZOfF9sdTUk/viewform"
 +++
 

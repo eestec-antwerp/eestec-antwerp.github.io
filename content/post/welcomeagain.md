@@ -1,7 +1,6 @@
 +++
 title = "Welcome (again)!"
 date = "2015-02-10T23:27:07+01:00"
-front = true
 +++
 
 Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig
