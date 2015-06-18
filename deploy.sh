@@ -25,4 +25,4 @@ fi
 git commit -qm "$msg"
 
 # push source and build repos
-git subtree push --prefix=public website master
+git stree push website
