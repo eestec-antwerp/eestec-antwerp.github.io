@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on EESTEC Antwerpen</title>
+    <link>http://www.eestec.be/form/</link>
+    <description>Recent content in Forms on EESTEC Antwerpen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be-nl</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Tue, 16 Jun 2015 16:45:11 +0200</lastBuildDate>
+    <atom:link href="http://www.eestec.be/form/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internationaal event ideeën</title>
+      <link>http://www.eestec.be/form/international-event-ideas/</link>
+      <pubDate>Tue, 16 Jun 2015 16:45:11 +0200</pubDate>
+      
+      <guid>http://www.eestec.be/form/international-event-ideas/</guid>
+      <description>&lt;p&gt;Na het succesvolle &lt;a href=&#34;http://antwerpi.eestec.be/&#34;&gt;AntwerPI&lt;/a&gt; event van vorig jaar plannen wij met EESTEC Antwerpen weer een internationaal event te doen rond de zomer van volgend jaar.&lt;/p&gt;
+
+&lt;p&gt;Deze events duren ongeveer een week en draaien rond één groot project. Zo werd er tijdens AntwerPI aan een lucht-camera gewerkt die zijn foto&amp;rsquo;s live uploadde tijdens de vlucht met behulp van een Raspberry PI. Een technisch interessant project met een leuk resultaat.&lt;/p&gt;
+
+&lt;p&gt;Wat heb je zelf altijd al willen doen dat je niet direct in een les kan leren?
+Heb je een interessant idee of suggestie, een connectie bij een bedrijf die coole producten kunnen sponsoren, &amp;hellip;?
+Laat het ons hieronder zeker weten.&lt;/p&gt;
+
+&lt;p&gt;In de tussentijd nog veel succes met die laatste examens en tot volgend academiejaar!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contacteer ons</title>
+      <link>http://www.eestec.be/contact</link>
+      <pubDate>Wed, 11 Feb 2015 10:03:36 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/contact</guid>
+      <description>&lt;p&gt;Laat hieronder een berichtje achter of contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.be&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vakantiewerk</title>
+      <link>http://www.eestec.be/form/vakantiewerk/</link>
+      <pubDate>Tue, 03 Feb 2015 11:38:02 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/form/vakantiewerk/</guid>
+      <description>&lt;p&gt;Vul onderstaand formulier in zodat wij je met de beste bedrijven kunnen matchen.
+Indien het niet goed zichtbaar is, kan je het ook rechtstreeks &lt;a href=&#34;https://docs.google.com/forms/d/1sAeNdxRhMTXihWtfyBPF-4crMisETG28M1RzWVmtSK0/viewform&#34;&gt;hier&lt;/a&gt; invullen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
