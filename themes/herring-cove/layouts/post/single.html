@@ -1,15 +1,14 @@
 {{ partial "header.html" . }}
+    <link href="{{ .Site.BaseURL }}/css/jquery.socialshareprivacy.min.css" rel="stylesheet">
+    <script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"disqus":{"status":false},"fbshare":{"status":false},"flattr":{"status":false},"gplus":{"status":false},"linkedin":{"status":false},"mail":{"status":false},"pinterest":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false}}}</script>
 
 <div class="container">
 
     <div id="article">
         <div class="article-title">{{ .Title }}</div>
-        <span class="meta">
+        <p class="meta">
             <small>&nbsp;<i class="fa fa-calendar-o"></i> {{ .Date.Format  "2006-01-02" }}</small>
-            <a class="twitter-share-button pull-right" href="https://twitter.com/share" data-url="{{ .Permalink }}" data-count="none" data-via="{{ .Site.Params.twitter }}" data-dnt="true">
-                <i class="fa fa-twitter"></i>
-            </a>
-        </span>
+        </p>
         <hr/>
         <div class="post">
             {{ .Content }} {{ with .Params.formurl }}
@@ -17,6 +16,11 @@
             <iframe src="{{ . }}" class="form" height="700em"></iframe>
             {{ end }}
         </div>
+        <div data-social-share-privacy='true'
+            data-order="facebook twitter hackernews reddit"></div>
+            <!--<a class="twitter-share-button pull-right" href="https://twitter.com/share" data-url="{{ .Permalink }}" data-count="none" data-via="{{ .Site.Params.twitter }}" data-dnt="true">
+                <i class="fa fa-twitter"></i>
+                </a>-->
     </div>
 
     <ul class="pager">
@@ -32,5 +36,8 @@
     </ul>
 
 </div>
+
+<!-- Asynchronously load social share privacy buttons -->
+<script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = '{{ .Site.BaseURL }}/js/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
 
 {{ partial "footer.html" . }}
