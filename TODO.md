@@ -7,3 +7,5 @@
 * [clean css](https://github.com/purifycss/purifycss)
 * no external script loading (google font in css)
 * fix pager of first post to contact
+* replace fontawesome css with only needed icons from [fontello](http://www.fontello.com/)
+* merge herring-cove upstream and use that as subrepo for theme
