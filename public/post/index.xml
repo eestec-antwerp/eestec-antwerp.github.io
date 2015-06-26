@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on EESTEC Antwerpen</title>
-    <link>http://www.eestec.be/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on EESTEC Antwerpen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
-    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://www.eestec.be/img/cc.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://localhost:1313/img/cc.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
     <lastBuildDate>Tue, 16 Jun 2015 16:45:11 +0200</lastBuildDate>
-    <atom:link href="http://www.eestec.be/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Internationaal event ideeën</title>
-      <link>http://www.eestec.be/post/international-event-ideas/</link>
+      <link>http://localhost:1313/post/international-event-ideas/</link>
       <pubDate>Tue, 16 Jun 2015 16:45:11 +0200</pubDate>
       
-      <guid>http://www.eestec.be/post/international-event-ideas/</guid>
+      <guid>http://localhost:1313/post/international-event-ideas/</guid>
       <description>&lt;p&gt;Na het succesvolle &lt;a href=&#34;http://antwerpi.eestec.be/&#34;&gt;AntwerPI&lt;/a&gt; event van vorig jaar plannen wij met EESTEC Antwerpen weer een internationaal event te doen rond de zomer van volgend jaar.&lt;/p&gt;
 
 &lt;p&gt;Deze events duren ongeveer een week en draaien rond één groot project. Zo werd er tijdens AntwerPI aan een lucht-camera gewerkt die zijn foto&amp;rsquo;s live uploadde tijdens de vlucht met behulp van een Raspberry PI. Een technisch interessant project met een leuk resultaat.&lt;/p&gt;
@@ -30,11 +30,11 @@ Laat het ons hieronder zeker weten.&lt;/p&gt;
     
     <item>
       <title>Data Science talk</title>
-      <link>http://www.eestec.be/post/datasciencetalk/</link>
+      <link>http://localhost:1313/post/datasciencetalk/</link>
       <pubDate>Tue, 28 Apr 2015 22:43:48 +0200</pubDate>
       
-      <guid>http://www.eestec.be/post/datasciencetalk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1592191081022429/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/datascience.jpg&#34; alt=&#34;Banner&#34; /&gt;
+      <guid>http://localhost:1313/post/datasciencetalk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1592191081022429/&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/datascience.jpg&#34; alt=&#34;Banner&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Knowledge is derived from information, which is derived from data.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
@@ -59,14 +59,14 @@ Laat het ons hieronder zeker weten.&lt;/p&gt;
     
     <item>
       <title>Student Startup Trip</title>
-      <link>http://www.eestec.be/post/studentstartuptrip/</link>
+      <link>http://localhost:1313/post/studentstartuptrip/</link>
       <pubDate>Wed, 18 Feb 2015 19:28:40 +0100</pubDate>
       
-      <guid>http://www.eestec.be/post/studentstartuptrip/</guid>
+      <guid>http://localhost:1313/post/studentstartuptrip/</guid>
       <description>&lt;p&gt;Na de Startup talk blijft EESTEC nog even in de startup sfeer hangen, want wij
 gaan samen met &lt;a href=&#34;https://www.facebook.com/aftleuven&#34;&gt;AFT Leuven&lt;/a&gt; naar Berlijn!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/sstb banner.jpg&#34; alt=&#34;sstb banner&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/sstb banner.jpg&#34; alt=&#34;sstb banner&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Na het succes van de trip vorig jaar naar Londen organiseren zij dit jaar een
@@ -78,7 +78,7 @@ Interesse om samen met 40 andere young potentials mee te gaan in april?&lt;/p&gt
 
 &lt;p&gt;Let op de registraties sluiten reeds op 1 maart, wacht dus niet te lang.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/sstb register.jpg&#34; alt=&#34;sstb register&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/sstb register.jpg&#34; alt=&#34;sstb register&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;EDIT:&lt;/strong&gt; Dankzij Start it @KBC is het nu ook mogelijk om gratis mee te komen!
@@ -91,10 +91,10 @@ kijk onder de Pitch4Berlin competitie.&lt;/p&gt;
     
     <item>
       <title>Startup talk</title>
-      <link>http://www.eestec.be/post/startuptalk/</link>
+      <link>http://localhost:1313/post/startuptalk/</link>
       <pubDate>Sun, 15 Feb 2015 22:28:02 +0100</pubDate>
       
-      <guid>http://www.eestec.be/post/startuptalk/</guid>
+      <guid>http://localhost:1313/post/startuptalk/</guid>
       <description>&lt;p&gt;Je hebt altijd al je eigen bedrijf willen oprichten?
 Je zit al lang met dat billion-dollar-idea maar nog niet de tijd of de juiste persoon gevonden om er ook echt aan te beginnen?
 Waarom zou je als (pas afgestudeerde) student je eigen voor een startup gaan werken in plaats van voor die grote multinational?
@@ -121,10 +121,10 @@ Volledig gebeten door de ondernemersmicrobe is hij de oprichter van onder meer &
     
     <item>
       <title>Welcome (again)!</title>
-      <link>http://www.eestec.be/post/welcomeagain/</link>
+      <link>http://localhost:1313/post/welcomeagain/</link>
       <pubDate>Tue, 10 Feb 2015 23:27:07 +0100</pubDate>
       
-      <guid>http://www.eestec.be/post/welcomeagain/</guid>
+      <guid>http://localhost:1313/post/welcomeagain/</guid>
       <description>&lt;p&gt;Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig
 board. Wij zijn druk in de weer om een fantastisch semester voor jullie voor te
 bereiden.
