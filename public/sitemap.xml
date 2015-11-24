@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://www.eestec.be/</loc>
-    <lastmod>2015-06-16T16:45:11+02:00</lastmod>
+    <lastmod>2015-11-24T19:43:48+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.eestec.be/post/iottalk/</loc>
+    <lastmod>2015-11-24T19:43:48+02:00</lastmod>
   </url>
   
   <url>
@@ -43,12 +48,12 @@
   </url>
   
   <url>
-    <loc>http://www.eestec.be/board/</loc>
+    <loc>http://www.eestec.be/about/</loc>
     <lastmod>2015-01-29T13:33:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.eestec.be/about/</loc>
+    <loc>http://www.eestec.be/board/</loc>
     <lastmod>2015-01-29T13:33:01+01:00</lastmod>
   </url>
   
