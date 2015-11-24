@@ -25,4 +25,4 @@ fi
 git commit -qm "$msg"
 
 # push source and build repos
-git stree push website
+git subtree push website
