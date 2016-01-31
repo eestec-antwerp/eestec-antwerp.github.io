@@ -16,4 +16,4 @@ copyright = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa
     facebook    = "https://www.facebook.com/eestecantwerp"
     showcase    = "Welcome to the EESTEC Antwerp website!"
     rss         = "/rss"
-    contact     = "/contact"
+    contact     = "mailto:board@eestec.be"
