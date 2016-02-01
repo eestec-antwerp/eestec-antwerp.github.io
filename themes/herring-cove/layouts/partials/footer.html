@@ -1,12 +1,13 @@
 <footer>
     <p class="text-muted credit">
-    {{ with $.Site.Copyright }}{{ . | safeHTML }}{{ else }}&copy; {{ .Now.Format "2006" }}. All rights reserved.{{end}}
+        {{ with $.Site.Copyright }}{{ . | safeHTML }}{{ else }}&copy; {{ .Now.Format "2006" }}. All rights reserved.{{end}}
     </p>
 </footer>
-</div> <!-- wrapper -->
+</div>
+<!-- wrapper -->
 
 <!-- JavaScript -->
-<script type="text/javascript" src="{{ $.Site.BaseURL }}/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="{{ $.Site.BaseURL }}/js/jquery-2.2.0.min.js"></script>
 <script type="text/javascript" src="{{ $.Site.BaseURL }}/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="{{ $.Site.BaseURL }}/js/indiesocial.min.js"></script>
 </body>
