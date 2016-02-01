@@ -85,6 +85,8 @@ parse_args() {
 }
 
 main() {
+    prepare
+
 	parse_args "$@"
 
 	enable_expanded_output
@@ -215,6 +217,11 @@ filter() {
 
 sanitize() {
 	"$@" 2> >(filter 1>&2) | filter
+}
+
+prepare() {
+    rm -rf ./public
+    hugo
 }
 
 [[ $1 = --source-only ]] || main "$@"
