@@ -10,10 +10,10 @@
 {{end}} {{ with .Site.Params.github }}
 <li> <a href="{{ . }}"><i class="fa fa-github-square"></i> github</a>
 </li>
-{{end}} {{ with .Site.Params.contact }}
-<li> <a href="{{ . }}"><i class="fa fa-envelope-square"></i> contact</a>
-</li>
 {{end}} {{ with .Site.Params.rss }}
 <li> <a href="{{ . }}"><i class="fa fa-rss-square"></i> rss</a>
 </li>
-{{end}}
+{{end}} {{ with .Site.Params.contact }}
+<li> <a href="{{ . }}"><i class="fa fa-envelope-square"></i> contact</a>
+</li>
+{{end}} {
