@@ -8,7 +8,7 @@ Built with the wonderful [Hugo](http://gohugo.io/).
 ### Website code changes
 Test changes locally by running the server:
 
-    hugo server -wD
+    hugo server -D
 
 See them live at <http://localhost:1313>.
 When everything works as expected you can (re)build the website with `deploy.sh`.
