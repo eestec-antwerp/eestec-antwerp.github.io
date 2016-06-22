@@ -6,9 +6,10 @@
         <div class="article-title">{{ .Title }}</div>
         <hr/>
         <div class="post">
-            {{ .Content }} {{ with .Params.formurl }}
+            {{ .Content }}
+            {{ with .Params.formurl }}
             <hr/>
-            <iframe src="{{ . }}" class="form" height="700em"></iframe>
+            <iframe src="{{ . }}" class="form" height="{{ $.Params.form_height }}"></iframe>
             {{ end }}
         </div>
     </div>
