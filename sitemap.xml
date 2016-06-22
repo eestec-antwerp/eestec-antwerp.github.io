@@ -4,6 +4,7 @@
   <url>
     <loc>http://www.eestec.be/</loc>
     <lastmod>2016-03-05T14:04:32+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -52,12 +53,12 @@
   </url>
   
   <url>
-    <loc>http://www.eestec.be/about/</loc>
+    <loc>http://www.eestec.be/board/</loc>
     <lastmod>2015-01-29T13:33:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.eestec.be/board/</loc>
+    <loc>http://www.eestec.be/about/</loc>
     <lastmod>2015-01-29T13:33:01+01:00</lastmod>
   </url>
   
