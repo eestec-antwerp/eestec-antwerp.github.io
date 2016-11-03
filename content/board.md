@@ -4,37 +4,55 @@ menu = "main"
 date = "2015-01-29T13:33:01+01:00"
 +++
 
+Current board
+=============
+
 Chairman
 --------
-![chairman profile](/img/olivier\ profile.jpg)
-
-Olivier Brewaeys
-
-* Mail: <chairman@eestec.be>
-* Twitter: [olbrew](https://twitter.com/olbrew)
-
-Treasurer
----------
-![treasurer profile](/img/thomas\ profile.png)
-
-Thomas Pinna
-
-* Mail: <treasurer@eestec.be>
-* Twitter: [webthomas](https://twitter.com/webthomas)
-
-Contact Person
---------------
-![cp profile](/img/evert\ profile.png)
+![chairman profile](/img/evert\ profile.png)
 
 Evert Heylen
 
-* Mail: <cp@eestec.be>
-* Twitter: [evertheylen](https://twitter.com/evertheylen)
+* Mail: <chairman@eestec.be>, <evert@eestec.be>
+
+Treasurer
+---------
+![treasurer profile](/img/stijn\ profile.jpg)
+
+Stijn Janssens
+
+* Mail: <treasurer@eestec.be>, <stijn@eestec.be>
+
+Contact Person
+--------------
+![cp profile](/img/jeroen\ profile.jpg)
+
+Jeroen Verstraelen
+
+* Mail: <cp@eestec.be>, <jeroen@eestec.be>
 
 Public Relations
 ----------------
+![pr profile](/img/anthony\ profile.jpg)
+
+Anthony Hermans
+
+* Mail: <anthony@eestec.be>
+
+
+Oversight
+=========
+
+![olivier profile](/img/olivier\ profile.jpg)
+
+Olivier Brewaeys
+
+* Mail: <olivier@eestec.be>
+
+<br/>
+
 ![pr profile](/img/simon\ profile.jpg)
 
 Simon Van Mierlo
 
-* Mail: <pr@eestec.be>
+* Mail: <simon@eestec.be>
