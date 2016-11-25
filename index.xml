@@ -7,8 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://www.eestec.be/img/cc.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sat, 05 Mar 2016 14:04:32 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 11:00:00 +0100</lastBuildDate>
     <atom:link href="http://www.eestec.be/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Security Tech Talk</title>
+      <link>http://www.eestec.be/post/securitytalk/</link>
+      <pubDate>Sat, 26 Nov 2016 11:00:00 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/post/securitytalk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1648867848740044/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/SecurityTechTalk800.png&#34; alt=&#34;Banner&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bankvanbreda.be/&#34;&gt;Bank J. Van Breda&lt;/a&gt; will come talk about security in a banking environment. The talk will be divided in two parts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Before the break, the Security Officer will talk about the challenges and risks they face. This part is less technical and will be understandable for every IT student.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After the break, the architects of the Web and App team will present how they are dealing with these problems. This part may be more challenging for students early in their bachelor&amp;rsquo;s program, but interesting nonetheless.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As usual there will be &lt;strong&gt;free pizza and drinks&lt;/strong&gt;. Please set yourself to attending if you&amp;rsquo;re planning to come so we can plan how much pizza&amp;rsquo;s we have to provide.&lt;/p&gt;
+
+&lt;p&gt;The talk will be in English.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bankvanbreda.be/&#34;&gt;Bank J. Van Breda&lt;/a&gt; is a specialized advisory bank focusing exclusively on entrepreneurs and professionals. We help you systematically build, manage and protect your assets.&lt;/p&gt;
+
+&lt;p&gt;We hope to see you there!&lt;/p&gt;
+
+&lt;p&gt;The EESTEC LC Antwerp Board&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: Wednesday 7 December, 18:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim, MG010&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt;: on the &lt;a href=&#34;https://www.facebook.com/events/1648867848740044/&#34;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DevOps and IoT Talk</title>
