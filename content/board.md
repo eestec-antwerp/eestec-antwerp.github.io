@@ -39,6 +39,15 @@ Anthony Hermans
 
 * Mail: <anthony@eestec.be>
 
+KdG Representative
+------------------
+
+![bart profile](/img/bart\ profile.jpg)
+
+Bart Verhoeven
+
+* Mail: <bart@eestec.be>
+
 
 Oversight
 =========
