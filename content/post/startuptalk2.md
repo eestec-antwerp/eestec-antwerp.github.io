@@ -6,7 +6,7 @@ date = "2017-04-06T11:00:00+01:00"
 [![Banner](/img/startuptalk_banner.png)](https://www.facebook.com/events/199037693926288/)
 
 
-Op dinsdag 18 april organiseert EESTEC LC Antwerp opnieuw een talk, ditmaal in de gebouwen van de KdG. Er zal **gratis pizza** en een receptie achteraf zijn, **aangeboden door [Data Minded](https://dataminded.be/)**. Deze keer hebben een een veelvoud van sprekers in verschillende bedrijven:
+Op dinsdag 18 april organiseert EESTEC LC Antwerp opnieuw een talk, ditmaal in de gebouwen van de KdG. Er zal **gratis pizza** en een receptie achteraf zijn, **aangeboden door [Data Minded](https://dataminded.be/)**. Deze keer hebben we een veelvoud van sprekers in verschillende bedrijven:
 
 - Kris Peeters, CEO van [Data Minded](https://dataminded.be/)
 - Bob Hamblok, Founder en CTO van [neoScores](https://www.neoscores.com/), en CTO van [Parcify](https://www.parcify.com/)
