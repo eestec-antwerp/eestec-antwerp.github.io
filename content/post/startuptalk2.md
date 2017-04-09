@@ -9,7 +9,7 @@ date = "2017-04-06T11:00:00+01:00"
 Op dinsdag 18 april organiseert EESTEC LC Antwerp opnieuw een talk, ditmaal in de gebouwen van de KdG. Er zal **gratis pizza** en een receptie achteraf zijn, **aangeboden door [Data Minded](https://dataminded.be/)**. Deze keer hebben een een veelvoud van sprekers in verschillende bedrijven:
 
 - Kris Peeters, CEO van [Data Minded](https://dataminded.be/)
-- Tom Hamblok, Founder en CTO van [neoScores](https://www.neoscores.com/), en CTO van [Parcify](https://www.parcify.com/)
+- Bob Hamblok, Founder en CTO van [neoScores](https://www.neoscores.com/), en CTO van [Parcify](https://www.parcify.com/)
 - Tim Haselaars, Head of Technology bij [Parcify](https://www.parcify.com/)
 - Pieter Wellens, Founder en CTO van [ApicBase.com](https://get.apicbase.com/)
 
