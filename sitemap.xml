@@ -67,6 +67,11 @@
   </url>
   
   <url>
+    <loc>http://www.eestec.be/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.eestec.be/</loc>
     <lastmod>2017-04-06T11:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -75,6 +80,11 @@
   <url>
     <loc>http://www.eestec.be/post/</loc>
     <lastmod>2017-04-06T11:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.eestec.be/tags/</loc>
     <priority>0</priority>
   </url>
   

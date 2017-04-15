@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EESTEC Antwerpen</title>
-    <link>http://www.eestec.be/index.xml</link>
+    <link>http://www.eestec.be/</link>
     <description>Recent content on EESTEC Antwerpen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://www.eestec.be/img/cc.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
     <lastBuildDate>Thu, 06 Apr 2017 11:00:00 +0100</lastBuildDate>
-    <atom:link href="http://www.eestec.be/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.eestec.be/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Startup Talk</title>
@@ -16,29 +18,8 @@
       <pubDate>Thu, 06 Apr 2017 11:00:00 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/startuptalk2/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/199037693926288/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/startuptalk_banner.png&#34; alt=&#34;Banner&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Op dinsdag 18 april organiseert EESTEC LC Antwerp opnieuw een talk, ditmaal in de gebouwen van de KdG. Er zal &lt;strong&gt;gratis pizza&lt;/strong&gt; en een receptie achteraf zijn, &lt;strong&gt;aangeboden door &lt;a href=&#34;https://dataminded.be/&#34;&gt;Data Minded&lt;/a&gt;&lt;/strong&gt;. Deze keer hebben we een veelvoud van sprekers in verschillende bedrijven:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kris Peeters, CEO van &lt;a href=&#34;https://dataminded.be/&#34;&gt;Data Minded&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bob Hamblok, Founder en CTO van &lt;a href=&#34;https://www.neoscores.com/&#34;&gt;neoScores&lt;/a&gt;, en CTO van &lt;a href=&#34;https://www.parcify.com/&#34;&gt;Parcify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tim Haselaars, Head of Technology bij &lt;a href=&#34;https://www.parcify.com/&#34;&gt;Parcify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Pieter Wellens, Founder en CTO van &lt;a href=&#34;https://get.apicbase.com/&#34;&gt;ApicBase.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Zij zullen spreken over verschillende onderwerpen, zoals hoe je een Platform-as-a-Service lanceert en waarom funding eigenlijk niet (altijd) nodig is.&lt;/p&gt;
-
-&lt;p&gt;Als je komt, gelieve je op aanwezig te zetten zodat we weten hoeveel pizza&amp;rsquo;s er nodig zijn. Tot dan!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;WANNEER&lt;/strong&gt;: Dinsdag 18 april, 18:30&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WAAR&lt;/strong&gt;: KdG Campus Groenplaats, GR001 (grote aula)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;INSCHRIJVEN&lt;/strong&gt;: op het &lt;a href=&#34;https://www.facebook.com/events/199037693926288/&#34;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Op dinsdag 18 april organiseert EESTEC LC Antwerp opnieuw een talk, ditmaal in de gebouwen van de KdG. Er zal gratis pizza en een receptie achteraf zijn, aangeboden door Data Minded. Deze keer hebben we een veelvoud van sprekers in verschillende bedrijven:
+ Kris Peeters, CEO van Data Minded Bob Hamblok, Founder en CTO van neoScores, en CTO van Parcify Tim Haselaars, Head of Technology bij Parcify Pieter Wellens, Founder en CTO van ApicBase.</description>
     </item>
     
     <item>
@@ -47,34 +28,9 @@
       <pubDate>Sat, 26 Nov 2016 11:00:00 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/securitytalk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1648867848740044/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/SecurityTechTalk800.png&#34; alt=&#34;Banner&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.bankvanbreda.be/&#34;&gt;Bank J. Van Breda&lt;/a&gt; will come talk about security in a banking environment. The talk will be divided in two parts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Before the break, the Security Officer will talk about the challenges and risks they face. This part is less technical and will be understandable for every IT student.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;After the break, the architects of the Web and App team will present how they are dealing with these problems. This part may be more challenging for students early in their bachelor&amp;rsquo;s program, but interesting nonetheless.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As usual there will be &lt;strong&gt;free pizza and drinks&lt;/strong&gt;. Please set yourself to attending if you&amp;rsquo;re planning to come so we can plan how much pizza&amp;rsquo;s we have to provide.&lt;/p&gt;
-
-&lt;p&gt;The talk will be in English.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.bankvanbreda.be/&#34;&gt;Bank J. Van Breda&lt;/a&gt; is a specialized advisory bank focusing exclusively on entrepreneurs and professionals. We help you systematically build, manage and protect your assets.&lt;/p&gt;
-
-&lt;p&gt;We hope to see you there!&lt;/p&gt;
-
-&lt;p&gt;The EESTEC LC Antwerp Board&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: Wednesday 7 December, 18:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim, MG010&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt;: on the &lt;a href=&#34;https://www.facebook.com/events/1648867848740044/&#34;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Bank J. Van Breda will come talk about security in a banking environment. The talk will be divided in two parts:
+ Before the break, the Security Officer will talk about the challenges and risks they face. This part is less technical and will be understandable for every IT student.
+ After the break, the architects of the Web and App team will present how they are dealing with these problems.</description>
     </item>
     
     <item>
@@ -83,50 +39,8 @@
       <pubDate>Sat, 05 Mar 2016 14:04:32 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/novemberfivetalk/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1688184698130966/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/novemberfive.jpg&#34; alt=&#34;Banner&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://novemberfive.co/&#34;&gt;November Five&lt;/a&gt; (formerly &lt;a href=&#34;http://www.appstrakt.com/&#34;&gt;Appstrakt&lt;/a&gt;) will come talk about two interesting and topical subjects in the tech world.
-You don&amp;rsquo;t want to miss this!&lt;/p&gt;
-
-&lt;h5 id=&#34;devops&#34;&gt;Devops&lt;/h5&gt;
-
-&lt;p&gt;Lately, there&amp;rsquo;s been a lot of word out in the street (or at least the streets of Palo
-Alto) about &amp;lsquo;devops&amp;rsquo;, the cultural change that aims to bring software developers and
-IT operations closer together.
-Seven years after the term was first introduced, there&amp;rsquo;s still a lot of confusion
-about what the term actually means.
-In this talk, we&amp;rsquo;ll take a look at what devops is, where it came from and what you
-should know about it as a computer scientist.&lt;/p&gt;
-
-&lt;p&gt;Summary:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Definition of devops, and why &amp;ldquo;devops engineer&amp;rdquo; is not a valid job title.&lt;/li&gt;
-&lt;li&gt;IT Infrastructure as code (config management, AWS/docker, continuous delivery).&lt;/li&gt;
-&lt;li&gt;The water-agile-fall model.&lt;/li&gt;
-&lt;li&gt;Devops at Appstrakt.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;iot&#34;&gt;IoT&lt;/h5&gt;
-
-&lt;p&gt;After our former talk by Bell Labs where we saw a general overview of what IoT is
-all about we&amp;rsquo;ll get a more practical use case here.
-November Five will talk about the underlying device they used to jump start their IoT
-development, the Photon from &lt;a href=&#34;https://www.particle.io/&#34;&gt;Particle&lt;/a&gt;,
-and how they did it.&lt;/p&gt;
-
-&lt;h5 id=&#34;details&#34;&gt;Details&lt;/h5&gt;
-
-&lt;p&gt;As usual there will be &lt;strong&gt;free food and drinks.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: Monday 14 March, 18u&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim, MG010&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt;: Attend our event on &lt;a href=&#34;https://www.facebook.com/events/1688184698130966/&#34;&gt;Facebook&lt;/a&gt; so we can plan how much food we have to provide.&lt;/p&gt;
-</description>
+      <description>November Five (formerly Appstrakt) will come talk about two interesting and topical subjects in the tech world. You don&amp;rsquo;t want to miss this!
+Devops Lately, there&amp;rsquo;s been a lot of word out in the street (or at least the streets of Palo Alto) about &amp;lsquo;devops&amp;rsquo;, the cultural change that aims to bring software developers and IT operations closer together. Seven years after the term was first introduced, there&amp;rsquo;s still a lot of confusion about what the term actually means.</description>
     </item>
     
     <item>
@@ -135,22 +49,8 @@ and how they did it.&lt;/p&gt;
       <pubDate>Mon, 15 Feb 2016 22:28:40 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/studentstartuptrip2016/</guid>
-      <description>&lt;p&gt;Na de geweldige startup trips naar Londen (2014) en Berlijn (2015) organiseert AFT Leuven, in samenwerking met EESTEC Antwerpen, een nieuwe editie. Dit jaar is de bestemming de &amp;ldquo;Hoofdstad van Scandinavië&amp;rdquo; en &amp;ldquo;Unicorn Factory&amp;rdquo;: Stockholm!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/sst_2016.jpg&#34; alt=&#34;banner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Inderdaad, de &amp;ldquo;most prolific billion-dollar startup hub behind Silicon Valley&amp;rdquo;. In Stockholm zijn dan ook de volgende bedrijven gevestigd: Spotify, Skype, King (Candy Crush), Mojang (Minecraft) en nog veel meer! We kunnen verzekeren dat er zowel bezoeken zullen zijn aan een aantal interessante startups, maar natuurlijk zal de prachtige stad Stochholm zelf ook verkend worden.&lt;/p&gt;
-
-&lt;p&gt;De deadline voor de inschrijvingen is 19 februari. Meer info (en hoe je kan registreren) vindt je op hun &lt;a href=&#34;http://www.aftleuven.be/event/student-startup-trip/&#34;&gt;website&lt;/a&gt; of het &lt;a href=&#34;https://www.facebook.com/events/1518341928470354/&#34;&gt;Facebook event&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;After the awesome startup trips to London (2014) and Berlin (2015), AFT Leuven, in partnership with EESTEC Antwerp, organizes another exciting new edition. This year&amp;rsquo;s destination is the (self-coined) “Capital of Scandinavia” and rightfully called “Unicorn Factory”: Stockholm!&lt;/p&gt;
-
-&lt;p&gt;That’s right, the “&amp;hellip; most prolific billion-dollar startup hub behind Silicon Valley”. Also home to Spotify, Skype, King (candy crush), Mojang (minecraft) and many more! We can assure you there will be some exciting visits to startups, along with visits to the beautiful city Stockholm.&lt;/p&gt;
-
-&lt;p&gt;The deadline for registering is on 19 February. More info (and how to register) can be found on their &lt;a href=&#34;http://www.aftleuven.be/event/student-startup-trip/&#34;&gt;website&lt;/a&gt; or at the &lt;a href=&#34;https://www.facebook.com/events/1518341928470354/&#34;&gt;Facebook event&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Na de geweldige startup trips naar Londen (2014) en Berlijn (2015) organiseert AFT Leuven, in samenwerking met EESTEC Antwerpen, een nieuwe editie. Dit jaar is de bestemming de &amp;ldquo;Hoofdstad van Scandinavië&amp;rdquo; en &amp;ldquo;Unicorn Factory&amp;rdquo;: Stockholm!
+Inderdaad, de &amp;ldquo;most prolific billion-dollar startup hub behind Silicon Valley&amp;rdquo;. In Stockholm zijn dan ook de volgende bedrijven gevestigd: Spotify, Skype, King (Candy Crush), Mojang (Minecraft) en nog veel meer! We kunnen verzekeren dat er zowel bezoeken zullen zijn aan een aantal interessante startups, maar natuurlijk zal de prachtige stad Stochholm zelf ook verkend worden.</description>
     </item>
     
     <item>
@@ -159,18 +59,11 @@ and how they did it.&lt;/p&gt;
       <pubDate>Tue, 24 Nov 2015 19:43:48 +0200</pubDate>
       
       <guid>http://www.eestec.be/post/iottalk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/127614337603835/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/iottalk.png&#34; alt=&#34;Banner&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Op 2 december organiseert EESTEC Antwerpen in samenwerking met &lt;a href=&#34;https://www.alcatel-lucent.com/&#34;&gt;Alcatel-Lucent&lt;/a&gt; een talk rond Internet of Things (IoT). Alcatel-Lucent is een grote speler op dat gebied, en naast het uitleggen van de achterliggende technologieën zullen ze ook een interactief deel aanbieden.&lt;/p&gt;
-
-&lt;p&gt;Natuurlijk zal er zoals altijd ook GRATIS pizza en drank zijn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: 2 december, 6u&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim, MG010&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt;: Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/127614337603835/&#34;&gt;Facebook&lt;/a&gt; (zo kunnen we ook inschatten hoe veel eten we moeten voorzien).&lt;/p&gt;
-</description>
+      <description>Op 2 december organiseert EESTEC Antwerpen in samenwerking met Alcatel-Lucent een talk rond Internet of Things (IoT). Alcatel-Lucent is een grote speler op dat gebied, en naast het uitleggen van de achterliggende technologieën zullen ze ook een interactief deel aanbieden.
+Natuurlijk zal er zoals altijd ook GRATIS pizza en drank zijn.
+WHEN: 2 december, 6u
+WHERE: Campus Middelheim, MG010
+SIGN UP: Zet je aanwezig op Facebook (zo kunnen we ook inschatten hoe veel eten we moeten voorzien).</description>
     </item>
     
     <item>
@@ -179,16 +72,9 @@ and how they did it.&lt;/p&gt;
       <pubDate>Tue, 16 Jun 2015 16:45:11 +0200</pubDate>
       
       <guid>http://www.eestec.be/post/international-event-ideas/</guid>
-      <description>&lt;p&gt;Na het succesvolle &lt;a href=&#34;http://antwerpi.eestec.be/&#34;&gt;AntwerPI&lt;/a&gt; event van vorig jaar plannen wij met EESTEC Antwerpen weer een internationaal event te doen rond de zomer van volgend jaar.&lt;/p&gt;
-
-&lt;p&gt;Deze events duren ongeveer een week en draaien rond één groot project. Zo werd er tijdens AntwerPI aan een lucht-camera gewerkt die zijn foto&amp;rsquo;s live uploadde tijdens de vlucht met behulp van een Raspberry PI. Een technisch interessant project met een leuk resultaat.&lt;/p&gt;
-
-&lt;p&gt;Wat heb je zelf altijd al willen doen dat je niet direct in een les kan leren?
-Heb je een interessant idee of suggestie, een connectie bij een bedrijf die coole producten kunnen sponsoren, &amp;hellip;?
-Laat het ons hieronder zeker weten.&lt;/p&gt;
-
-&lt;p&gt;In de tussentijd nog veel succes met die laatste examens en tot volgend academiejaar!&lt;/p&gt;
-</description>
+      <description>Na het succesvolle AntwerPI event van vorig jaar plannen wij met EESTEC Antwerpen weer een internationaal event te doen rond de zomer van volgend jaar.
+Deze events duren ongeveer een week en draaien rond één groot project. Zo werd er tijdens AntwerPI aan een lucht-camera gewerkt die zijn foto&amp;rsquo;s live uploadde tijdens de vlucht met behulp van een Raspberry PI. Een technisch interessant project met een leuk resultaat.
+Wat heb je zelf altijd al willen doen dat je niet direct in een les kan leren?</description>
     </item>
     
     <item>
@@ -197,26 +83,9 @@ Laat het ons hieronder zeker weten.&lt;/p&gt;
       <pubDate>Tue, 28 Apr 2015 22:43:48 +0200</pubDate>
       
       <guid>http://www.eestec.be/post/datasciencetalk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/1592191081022429/&#34;&gt;&lt;img src=&#34;http://www.eestec.be/img/datascience.jpg&#34; alt=&#34;Banner&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Knowledge is derived from information, which is derived from data.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Met moderne technologie kunnen we een massa aan data verzamelen zonder enige moeite. Het fenomeen &amp;lsquo;Big Data&amp;rsquo; zal iedereen wel bekend in de oren klinken. Maar pure data is niet erg nuttig, het wordt pas interessant als je de data kan interpreteren, en dat is niet simpel.&lt;/p&gt;
-
-&lt;p&gt;Het bedrijf &lt;a href=&#34;http://www.infofarm.be/&#34;&gt;Infofarm&lt;/a&gt; komt daarover een talk geven. Infofarm is een Belgisch bedrijf dat sterk gespecialiseerd is in Data Science.&lt;/p&gt;
-
-&lt;p&gt;We vergelijken verschillende manieren om Big Data te verwerken, met behulp van data van twitter. Geen droge theorie, maar een grondige kijk naar wat echte voorbeelden die je in de bedrijfswereld tegenkomt.&lt;/p&gt;
-
-&lt;p&gt;Zeker de moeite waard dus, en niet enkel voor studenten Data Science.&lt;/p&gt;
-
-&lt;p&gt;We voorzien &lt;strong&gt;gratis eten en drinken&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: 11 mei, 18u&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim, MG010&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt;: Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/1592191081022429/&#34;&gt;Facebook&lt;/a&gt; (zo kunnen we ook inschatten hoe veel eten we moeten voorzien).&lt;/p&gt;
-</description>
+      <description>&amp;ldquo;Knowledge is derived from information, which is derived from data.&amp;rdquo;
+Met moderne technologie kunnen we een massa aan data verzamelen zonder enige moeite. Het fenomeen &amp;lsquo;Big Data&amp;rsquo; zal iedereen wel bekend in de oren klinken. Maar pure data is niet erg nuttig, het wordt pas interessant als je de data kan interpreteren, en dat is niet simpel.
+Het bedrijf Infofarm komt daarover een talk geven. Infofarm is een Belgisch bedrijf dat sterk gespecialiseerd is in Data Science.</description>
     </item>
     
     <item>
@@ -225,28 +94,8 @@ Laat het ons hieronder zeker weten.&lt;/p&gt;
       <pubDate>Wed, 18 Feb 2015 19:28:40 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/studentstartuptrip/</guid>
-      <description>&lt;p&gt;Na de Startup talk blijft EESTEC nog even in de startup sfeer hangen, want wij
-gaan samen met &lt;a href=&#34;https://www.facebook.com/aftleuven&#34;&gt;AFT Leuven&lt;/a&gt; naar Berlijn!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/sstb banner.jpg&#34; alt=&#34;sstb banner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Na het succes van de trip vorig jaar naar Londen organiseren zij dit jaar een
-nieuwe trip, deze keer naar Berlijn.
-Naar verluidt “not only one of the planet’s coolest cities, but now also one of the planet’s leading tech hubs”.
-Interesse om samen met 40 andere young potentials mee te gaan in april?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registreer je dan op &lt;a href=&#34;http://www.studentstartuptrip.be&#34;&gt;www.studentstartuptrip.be&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Let op de registraties sluiten reeds op 1 maart, wacht dus niet te lang.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/sstb register.jpg&#34; alt=&#34;sstb register&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;EDIT:&lt;/strong&gt; Dankzij Start it @KBC is het nu ook mogelijk om gratis mee te komen!
-Je hebt enkel een goed startup idee nodig. De beste drie worden beloond met een
-gratis trip naar Berlijn twv €200.
-Voor meer info ga wederom naar de &lt;a href=&#34;http://www.studentstartuptrip.be&#34;&gt;website&lt;/a&gt; en
-kijk onder de Pitch4Berlin competitie.&lt;/p&gt;
-</description>
+      <description>Na de Startup talk blijft EESTEC nog even in de startup sfeer hangen, want wij gaan samen met AFT Leuven naar Berlijn!
+Na het succes van de trip vorig jaar naar Londen organiseren zij dit jaar een nieuwe trip, deze keer naar Berlijn. Naar verluidt “not only one of the planet’s coolest cities, but now also one of the planet’s leading tech hubs”. Interesse om samen met 40 andere young potentials mee te gaan in april?</description>
     </item>
     
     <item>
@@ -255,28 +104,8 @@ kijk onder de Pitch4Berlin competitie.&lt;/p&gt;
       <pubDate>Sun, 15 Feb 2015 22:28:02 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/startuptalk/</guid>
-      <description>&lt;p&gt;Je hebt altijd al je eigen bedrijf willen oprichten?
-Je zit al lang met dat billion-dollar-idea maar nog niet de tijd of de juiste persoon gevonden om er ook echt aan te beginnen?
-Waarom zou je als (pas afgestudeerde) student je eigen voor een startup gaan werken in plaats van voor die grote multinational?
-Of je wil gewoon een paar interessante Vlaamse startups leren kennen?&lt;/p&gt;
-
-&lt;p&gt;Kom dan zeker luisteren naar onze startup talk!&lt;/p&gt;
-
-&lt;p&gt;Er komen 3 ondernemers in verschillende stages van het startup gebeuren spreken over hun ervaringen.&lt;/p&gt;
-
-&lt;p&gt;Zo is er &lt;a href=&#34;http://jacobshenri.be/&#34;&gt;Jacobs Henri&lt;/a&gt;.
-Volledig gebeten door de ondernemersmicrobe is hij de oprichter van onder meer &lt;a href=&#34;http://forcit.be/&#34;&gt;Forcit&lt;/a&gt; en mede-initiatiefnemer van &lt;a href=&#34;http://aerey.be/&#34;&gt;Aerey&lt;/a&gt;, een community voor jonge ondernemers.&lt;/p&gt;
-
-&lt;p&gt;Bovendien zal de talk de perfecte intro zijn voor de Student Startup Trip Berlin. Voor meer info zie &lt;a href=&#34;http://studentstartuptrip.be/&#34;&gt;http://studentstartuptrip.be/&lt;/a&gt; en het &lt;a href=&#34;facebook.com/events/1531745160418417/&#34;&gt;facebook evenement&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Zet je aub enkel op aanwezig als je ook daadwerkelijk plant te komen zodat wij het aantal kunnen schatten voor het eten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: 26 februari, 18u15&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Campus Middelheim UA, Lokaal MG010&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SIGN UP&lt;/strong&gt; Zet je aanwezig op &lt;a href=&#34;https://www.facebook.com/events/408628709293292/408628712626625/&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Je hebt altijd al je eigen bedrijf willen oprichten? Je zit al lang met dat billion-dollar-idea maar nog niet de tijd of de juiste persoon gevonden om er ook echt aan te beginnen? Waarom zou je als (pas afgestudeerde) student je eigen voor een startup gaan werken in plaats van voor die grote multinational? Of je wil gewoon een paar interessante Vlaamse startups leren kennen?
+Kom dan zeker luisteren naar onze startup talk!</description>
     </item>
     
     <item>
@@ -285,13 +114,7 @@ Volledig gebeten door de ondernemersmicrobe is hij de oprichter van onder meer &
       <pubDate>Tue, 10 Feb 2015 23:27:07 +0100</pubDate>
       
       <guid>http://www.eestec.be/post/welcomeagain/</guid>
-      <description>&lt;p&gt;Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig
-board. Wij zijn druk in de weer om een fantastisch semester voor jullie voor te
-bereiden.
-Houdt de website in de gaten, subscribe op de
-&lt;a href=&#34;http://eestec.be/rss&#34;&gt;rss-feed&lt;/a&gt;, like ons op &lt;a href=&#34;http://facebook.com/eestecantwerp&#34;&gt;Facebook&lt;/a&gt; en
-volg ons op &lt;a href=&#34;http://twitter.com/eestecantwerp&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
-</description>
+      <description>Na een half jaar stilte heeft EESTEC Antwerpen eindelijk terug een volwaardig board. Wij zijn druk in de weer om een fantastisch semester voor jullie voor te bereiden. Houdt de website in de gaten, subscribe op de rss-feed, like ons op Facebook en volg ons op Twitter!</description>
     </item>
     
     <item>
@@ -300,9 +123,7 @@ volg ons op &lt;a href=&#34;http://twitter.com/eestecantwerp&#34;&gt;Twitter&lt;
       <pubDate>Tue, 03 Feb 2015 11:38:02 +0100</pubDate>
       
       <guid>http://www.eestec.be/vakantiewerk/</guid>
-      <description>&lt;p&gt;Vul onderstaand formulier in zodat wij je met de beste bedrijven kunnen matchen.
-Indien het niet goed zichtbaar is, kan je het ook rechtstreeks &lt;a href=&#34;https://docs.google.com/forms/d/15BPTh9g1YLWQx4c-GtJw4SoTFhWyeAgD-aVtVKdC5ho/viewform&#34;&gt;hier&lt;/a&gt; invullen.&lt;/p&gt;
-</description>
+      <description>Vul onderstaand formulier in zodat wij je met de beste bedrijven kunnen matchen. Indien het niet goed zichtbaar is, kan je het ook rechtstreeks hier invullen.</description>
     </item>
     
     <item>
@@ -311,47 +132,8 @@ Indien het niet goed zichtbaar is, kan je het ook rechtstreeks &lt;a href=&#34;h
       <pubDate>Thu, 29 Jan 2015 13:33:01 +0100</pubDate>
       
       <guid>http://www.eestec.be/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;wat-is-eestec&#34;&gt;Wat is EESTEC?&lt;/h2&gt;
-
-&lt;p&gt;EESTEC is een Europese vereniging voor en door studenten informatica en staat volledig voor &lt;em&gt;Electrical Engineering STudents&amp;rsquo; European assoCiation&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Het doel van EESTEC is om internationalisatie en studenten mobiliteit te promoten binnen Europa, door internationale evenementen te organiseren waar EESTEC-leden van andere landen naar toe kunnen gaan. Deze evenementen hebben zowel een academische als studentikoze invulling en zijn meestal, op transportkosten na, gratis bij te wonen.&lt;/p&gt;
-
-&lt;p&gt;EESTEC groeit snel en is momenteel al verspreid over meer dan &lt;a href=&#34;https://eestec.net/cities&#34;&gt;50 Europese
-steden&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Meer info vind je &lt;a href=&#34;https://www.eestec.net&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;wat-is-eestec-antwerpen&#34;&gt;Wat is EESTEC Antwerpen?&lt;/h2&gt;
-
-&lt;p&gt;EESTEC Antwerpen werd opgericht in september 2010 door enkele enthousiaste
-studenten informatica aan de Universiteit Antwerpen en is sinds november 2012
-een &amp;ldquo;Local Comittee&amp;rdquo;.
-Dit wil zeggen dat we een volwaardig lid zijn van de organisatie. We hebben al verschillende leden naar evenementen kunnen sturen in onder andere Estland, Servië, Roemenië, Finland, Polen en Griekenland en hebben zelf ook al enkele internationale evenementen kunnen organiseren.
-Zo was er vorig jaar de succesvolle AntwerPi workshop waarmee de krant zelfs
-werd gehaald.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/antwerpi.png&#34; alt=&#34;AntwerPi picture&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Naast de internationale activiteiten brengen we op lokaal niveau
-de studenten informatica aan de Universiteit Antwerpen in contact met het
-bedrijfsleven. Zo kunnen ze afstuderen met een duidelijkere visie op hun
-toekomst en hun mogelijkheden.
-We doen dit onder meer door bedrijfspresentaties te organiseren en vakantiewerk te
-regelen bij interessante bedrijven.
-Sinds 2 jaar is er ook de razend interessante &lt;a href=&#34;studentstartuptrip.be&#34;&gt;Student Startup
-Trip&lt;/a&gt; waarbij we met studenten van over heel Vlaanderen
-bloeiende techhubs gaan bezoeken.&lt;/p&gt;
-
-&lt;h2 id=&#34;interesse&#34;&gt;Interesse?&lt;/h2&gt;
-
-&lt;p&gt;Like ons zeker op &lt;a href=&#34;https://www.facebook.com/eestecantwerp&#34;&gt;Facebook&lt;/a&gt; en volg ons op &lt;a href=&#34;https://www.twitter.com/eestecantwerp&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Wil je een ons helpen, heb je een suggestie of wil je nog meer info?
-Contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.be&lt;/a&gt; of via &lt;a href=&#34;http://www.eestec.be/contact&#34;&gt;dit formulier&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Wat is EESTEC? EESTEC is een Europese vereniging voor en door studenten informatica en staat volledig voor Electrical Engineering STudents&amp;rsquo; European assoCiation.
+Het doel van EESTEC is om internationalisatie en studenten mobiliteit te promoten binnen Europa, door internationale evenementen te organiseren waar EESTEC-leden van andere landen naar toe kunnen gaan. Deze evenementen hebben zowel een academische als studentikoze invulling en zijn meestal, op transportkosten na, gratis bij te wonen.</description>
     </item>
     
     <item>
@@ -360,80 +142,15 @@ Contacteer ons via &lt;a href=&#34;mailto:board@eestec.be&#34;&gt;board@eestec.b
       <pubDate>Thu, 29 Jan 2015 13:33:01 +0100</pubDate>
       
       <guid>http://www.eestec.be/board/</guid>
-      <description>
-
-&lt;h1 id=&#34;current-board&#34;&gt;Current board&lt;/h1&gt;
-
-&lt;h2 id=&#34;chairman&#34;&gt;Chairman&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/evert profile.png&#34; alt=&#34;chairman profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Evert Heylen&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:chairman@eestec.be&#34;&gt;chairman@eestec.be&lt;/a&gt;, &lt;a href=&#34;mailto:evert@eestec.be&#34;&gt;evert@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;treasurer&#34;&gt;Treasurer&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/stijn profile.jpg&#34; alt=&#34;treasurer profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Stijn Janssens&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:treasurer@eestec.be&#34;&gt;treasurer@eestec.be&lt;/a&gt;, &lt;a href=&#34;mailto:stijn@eestec.be&#34;&gt;stijn@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;contact-person&#34;&gt;Contact Person&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/jeroen profile.jpg&#34; alt=&#34;cp profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jeroen Verstraelen&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:cp@eestec.be&#34;&gt;cp@eestec.be&lt;/a&gt;, &lt;a href=&#34;mailto:jeroen@eestec.be&#34;&gt;jeroen@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;public-relations&#34;&gt;Public Relations&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/anthony profile.jpg&#34; alt=&#34;pr profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Anthony Hermans&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:anthony@eestec.be&#34;&gt;anthony@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kdg-representative&#34;&gt;KdG Representative&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/bart profile.jpg&#34; alt=&#34;bart profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bart Verhoeven&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:bart@eestec.be&#34;&gt;bart@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;oversight&#34;&gt;Oversight&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/olivier profile.jpg&#34; alt=&#34;olivier profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Olivier Brewaeys&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:olivier@eestec.be&#34;&gt;olivier@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.eestec.be/img/simon profile.jpg&#34; alt=&#34;pr profile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Simon Van Mierlo&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:simon@eestec.be&#34;&gt;simon@eestec.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Current board Chairman Evert Heylen
+ Mail: chairman@eestec.be, evert@eestec.be  Treasurer Stijn Janssens
+ Mail: treasurer@eestec.be, stijn@eestec.be  Contact Person Jeroen Verstraelen
+ Mail: cp@eestec.be, jeroen@eestec.be  Public Relations Anthony Hermans
+ Mail: anthony@eestec.be  KdG Representative Bart Verhoeven
+ Mail: bart@eestec.be  Oversight Olivier Brewaeys
+ Mail: olivier@eestec.be  
+Simon Van Mierlo
+ Mail: simon@eestec.be  </description>
     </item>
     
   </channel>
