@@ -146,7 +146,7 @@ a:active {
     line-height: 30px;
     text-indent: 40px;
     font-family: "Helvetica Neue", helvetica, "Open Sans", sans-serif;
-    font-weight: 200;
+/*     font-weight: 200; */
     color: #9c9c9c;
     text-shadow: 1px 1px #fff;
 }
@@ -155,6 +155,10 @@ a:active {
     color: #999;
     display: block;
     text-decoration: none;
+}
+
+.sidebar-nav .active {
+    font-weight: bold;
 }
 
 .sidebar-nav li a:hover {
@@ -267,7 +271,14 @@ pre {
     transition: all .3s ease 0;
 }
 
+.showcase {
+	
+}
+
 .showcase-wrapper {
+	display:flex;
+	justify-content:center;
+	align-items:center;
     width: 100%;
     height: 80vh;
     min-height: 500px;
@@ -288,7 +299,18 @@ pre {
     font-weight: bolder;
     color: #fff;
     text-align: center;
-    padding-top: 25%;
+    /*padding-top: 25%;*/
+}
+
+.showcase-more {
+	font-size: 1.5em;
+	font-family: "Helvetica Neue", helvetica, "Open Sans", sans-serif;
+	color: #fff;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2em;
+	max-width: 35em;
 }
 
 .wide {
@@ -359,14 +381,18 @@ pre {
 .showcase-button {
     border-radius: .5em;
     background-color: transparent;
-    border: 1px solid rgba(255, 255, 255, .4);
+    border: 2px solid rgba(255, 255, 255, .4);
     color: rgba(255, 255, 255, .8);
     font-weight: 200;
+	font-size: 1em;
+	margin-top: 0.4em;
+	margin-left: 0.2em;
+	margin-right: 0.2em;
     font-family: "Helvetica Neue", helvetica, "Open Sans", sans-serif;
 }
 
 .showcase-button:hover {
-    border: 1px solid rgba(255, 255, 255, 1);
+    border: 2px solid rgba(255, 255, 255, 1);
     color: rgba(255, 255, 255, 1);
     background-color: transparent;
     transition: all .2s ease 0;

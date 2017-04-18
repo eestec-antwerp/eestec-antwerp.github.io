@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://www.eestec.be/img/cc.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 13:33:01 +0100</lastBuildDate>
     
 	<atom:link href="http://www.eestec.be/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://www.eestec.be/about/</link>
+      <pubDate>Tue, 18 Apr 2017 13:33:01 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/about/</guid>
+      <description>Wat is EESTEC Antwerpen? EESTEC Antwerpen werd opgericht in september 2010 door enkele enthousiaste studenten informatica aan de Universiteit Antwerpen. Wij zijn een studentenorganisatie die zich focust op kennis en ervaring (en niet op feestjes en cantussen). Wij doen dit voornamelijk op drie vlakken:
+Talks Minstens één keer per semester organiseren we &amp;rsquo;s avonds na de lessen een talk/avondlezing. Dit gaat dan dikwijls over een actueel onderwerp of iets dat in de lessen normaal niet voorkomt.</description>
+    </item>
     
     <item>
       <title>Startup Talk</title>
@@ -123,17 +133,7 @@ Kom dan zeker luisteren naar onze startup talk!</description>
       <pubDate>Tue, 03 Feb 2015 11:38:02 +0100</pubDate>
       
       <guid>http://www.eestec.be/vakantiewerk/</guid>
-      <description>Vul onderstaand formulier in zodat wij je met de beste bedrijven kunnen matchen. Indien het niet goed zichtbaar is, kan je het ook rechtstreeks hier invullen.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.eestec.be/about/</link>
-      <pubDate>Thu, 29 Jan 2015 13:33:01 +0100</pubDate>
-      
-      <guid>http://www.eestec.be/about/</guid>
-      <description>Wat is EESTEC? EESTEC is een Europese vereniging voor en door studenten informatica en staat volledig voor Electrical Engineering STudents&amp;rsquo; European assoCiation.
-Het doel van EESTEC is om internationalisatie en studenten mobiliteit te promoten binnen Europa, door internationale evenementen te organiseren waar EESTEC-leden van andere landen naar toe kunnen gaan. Deze evenementen hebben zowel een academische als studentikoze invulling en zijn meestal, op transportkosten na, gratis bij te wonen.</description>
+      <description>Om je in te schrijven voor vakantiewerk, gelieve dit formulier in te vullen. Denk eraan dat enkel leden zich kunnen inschrijven voor vakantiewerk.</description>
     </item>
     
     <item>
