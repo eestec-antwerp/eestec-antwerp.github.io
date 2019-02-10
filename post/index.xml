@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://www.eestec.be/img/cc.png&#34; /&gt;&lt;/a&gt; This work by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;www.eestec.be&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;EESTEC Antwerp&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Nov 2018 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www.eestec.be/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Talk</title>
+      <link>http://www.eestec.be/post/aitalk/</link>
+      <pubDate>Tue, 27 Nov 2018 11:00:00 +0100</pubDate>
+      
+      <guid>http://www.eestec.be/post/aitalk/</guid>
+      <description>Op donderdag 29 november organiseert EESTEC LC Antwerp een talk omtrent &amp;ldquo;Artificiciële Intelligentie&amp;rdquo;. Achteraf volgt er een receptie met gratis pizza.
+We hebben een aantal sprekers uitgenodigd die ons komen vertellen over verschillende onderwerpen.
+Om te beginnen hebben we Dario Incalza, CTO van de Antwerpse startup Overture die ons wegwijs gaat maken in &amp;ldquo;deep learning&amp;rdquo; en &amp;ldquo;neural networks&amp;rdquo;.
+Ook komt Prokopis Gryllos, data scientist van Sentiance, vertellen hoe zij AI en IoT gebruiken in hun verkeersplatform.</description>
+    </item>
     
     <item>
       <title>Startup Talk</title>
